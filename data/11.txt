@@ -1,0 +1,82 @@
+# HDB | Resale Application
+A Singapore Government Agency Website  How to identify
+
+![](https://d33wubrfki0l68.cloudfront.net/2ec2122b2010672b9cbb6efb5138048d8aff4a09/5d1ab/assets/img/government_building.svg)
+
+**Official website links end with .gov.sg**
+
+Government agencies communicate via **.gov.sg** websites (e.g. go.gov.sg/open). [Trusted websites](https://go.gov.sg/trusted-sites)
+
+![](https://d33wubrfki0l68.cloudfront.net/aecdf1b88c0edfa72e7fef099f28e93b80c8336a/8c6a1/assets/img/lock.svg)
+
+**Secure websites use HTTPS**
+
+Look for a **lock** (![](https://d33wubrfki0l68.cloudfront.net/aecdf1b88c0edfa72e7fef099f28e93b80c8336a/8c6a1/assets/img/lock.svg)) or https:// as an added precaution. Share sensitive information only on official secure websites.
+
+[![Housing & Development Board Logo](https://www.hdb.gov.sg/html/Dashboard/Foundation/Theming/images/site-logo-small.png)
+
+Housing & Development Board
+---------------------------
+
+](https://www.hdb.gov.sg/cs/infoweb/homepage)
+
+[Skip to main](#main)
+
+*   [About Us](https://www.hdb.gov.sg/about-us)
+*   [Residential](https://www.hdb.gov.sg/residential)
+*   [Community](https://www.hdb.gov.sg/community)
+*   [Business](https://www.hdb.gov.sg/business)
+*   [Car Parks](https://www.hdb.gov.sg/car-parks)
+*   [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+
+*   [About Us](https://www.hdb.gov.sg/about-us)
+*   [Residential](https://www.hdb.gov.sg/residential)
+*   [Community](https://www.hdb.gov.sg/community)
+*   [Business](https://www.hdb.gov.sg/business)
+*   [Car Parks](https://www.hdb.gov.sg/car-parks)
+*   [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+
+[![Housing & Development Board Logo](https://www.hdb.gov.sg/html/Dashboard/Foundation/Theming/images/site-logo-small.png)](https://www.hdb.gov.sg/cs/infoweb/homepage)
+
+Login
+
+![Residential](https://www.hdb.gov.sg/-/media/HDBContent/Images/General/residential-masthead.ashx)
+
+Residential
+
+[Home](https://www.hdb.gov.sg/cs/infoweb/homepage) [Residential](https://www.hdb.gov.sg/residential) [Buying a Flat](https://www.hdb.gov.sg/residential/buying-a-flat) [Buying Procedure for Resale Flats](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats) [Resale Application](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application)
+
+Learn about submitting a resale application after exercising the Option to Purchase, and what to expect after the submission.
+
+![](https://www.hdb.gov.sg/-/media/HDBContent/Images/EAPG/Resale-Application_buy.ashx)
+
+*   [
+    
+    Application
+    -----------
+    
+    Learn about the details and documents required when buyers submit a resale application.
+    
+    Find out more
+    
+    ](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/application)
+*   [
+    
+    Acceptance and Approval
+    -----------------------
+    
+    Find out what actions buyers need to take before the resale application is approved.
+    
+    Find out more
+    
+    ](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/acceptance-and-approval)
+*   [
+    
+    Request for Enhanced Contra Facility
+    ------------------------------------
+    
+    Read more about the Enhanced Contra Facility.
+    
+    Find out more
+    
+    ](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/request-for-enhanced-contra-facility)

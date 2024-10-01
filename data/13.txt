@@ -1,0 +1,709 @@
+HDB | Acceptance and Approval
+
+A Singapore Government Agency Website  How to identify
+
+![](https://d33wubrfki0l68.cloudfront.net/2ec2122b2010672b9cbb6efb5138048d8aff4a09/5d1ab/assets/img/government_building.svg)
+
+**Official website links end with .gov.sg**
+
+Government agencies communicate via **.gov.sg** websites (e.g. go.gov.sg/open). [Trusted websites](https://go.gov.sg/trusted-sites)
+
+![](https://d33wubrfki0l68.cloudfront.net/aecdf1b88c0edfa72e7fef099f28e93b80c8336a/8c6a1/assets/img/lock.svg)
+
+**Secure websites use HTTPS**
+
+Look for a **lock** (![](https://d33wubrfki0l68.cloudfront.net/aecdf1b88c0edfa72e7fef099f28e93b80c8336a/8c6a1/assets/img/lock.svg)) or https:// as an added precaution. Share sensitive information only on official secure websites.
+
+[![Housing & Development Board Logo](/html/Dashboard/Foundation/Theming/images/site-logo-small.png)
+
+Housing & Development Board
+---------------------------
+
+](/cs/infoweb/homepage)
+
+[Skip to main](#main)
+
+ Search
+
+*   [About Us](/about-us)
+    
+    *   [Vision, Mission, and Values](/about-us/vision-mission-and-values)
+    *   [Our Role](/about-us/our-role)
+    *   [HDB History and Towns](/about-us/history)
+    *   [Designing for Life Roadmap](/about-us/hdbs-refreshed-roadmap-designing-for-life)
+    *   [Our Logo](/about-us/our-logo)
+    *   [Organisation Structure](/about-us/organisation-structure)
+    *   [Achievements and Accolades](/about-us/achievements-and-accolades)
+    *   [Research and Innovation](/about-us/research-and-innovation)
+    *   [Careers](/about-us/careers)
+    *   [Scholarships and Internships](/about-us/scholarships-and-internships)
+    *   [News & Publications](/about-us/news-and-publications)
+    
+*   [Residential](/residential)
+    
+    *   [Buying a Flat](/residential/buying-a-flat)
+    *   [Selling a Flat](/residential/selling-a-flat)
+    *   [Servicing Your HDB Housing Loan](/residential/servicing-your-hdb-housing-loan)
+    *   [Renting a Flat](/residential/renting-a-flat)
+    *   [Living in an HDB Flat](/residential/living-in-an-hdb-flat)
+    *   [Shopping in Your Neighbourhood](/residential/where2shop)
+    *   [Renting Out a Flat/ Bedroom](/residential/renting-out-a-flat-bedroom)
+    *   [Season Parking](/residential/season-parking)
+    
+*   [Community](/community)
+    
+    *   [HDB Community Day 2023](/community/hdb-community-day-2023)
+    *   [Creating Vibrant Places](/community/creating-vibrant-places)
+    *   [Caring for Your Neighbours](/community/caring-for-your-neighbours)
+    *   [Practising Eco-Living](/community/practising-ecoliving)
+    *   [Getting Involved](/community/getting-involved)
+    *   [Community Publications](/community/community-publications)
+    
+*   [Business](/business)
+    
+    *   [Commercial](/business/commercial)
+    *   [Building Professionals (BGBiz)](/business/building-professionals)
+    *   [Renovation Contractors](/business/renovation-and-repair-contractors)
+    *   [Land Developers and Land Users](/business/land-developers-and-land-users)
+    *   [Tenderers](/business/tenderers)
+    *   [Estate Agents & Salespersons](/business/estate-agents-and-salespersons)
+    
+*   [Car Parks](/car-parks)
+    
+    *   [Car Park Signboards](/car-parks/car-park-signboards)
+    *   [Parking Lot Line Markings](/car-parks/parking-lot-line-markings)
+    *   [Car Park Location Map](/car-parks/car-park-location-map)
+    *   [Parking Offences](/car-parks/parking-offences)
+    *   [Season Parking](/car-parks/season-parking)
+    *   [Short-Term Parking](/car-parks/shortterm-parking)
+    *   [Car Parks for Business Activities](/car-parks/car-parks-for-business-activities)
+    *   [Parking@HDB](/car-parks/parkinghdb)
+    
+*   [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    *   [Residential](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=Buying_a_New_Flat)
+    *   [Business](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=Commercial)
+    *   [Car Parks](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=Car_Park_Information)
+    *   [General](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=General)
+    
+
+*   [About Us](/about-us)
+    
+    [About Us](/cs/infoweb/about-us)
+    
+    The Housing & Development Board (HDB) is Singapore's public housing authority and a statutory board under the Ministry of National Development. We develop public housing to provide Singaporeans with affordable, quality homes, and a better living environment. Focusing on nurturing a strong family and community spirit, public housing policies and schemes are formulated to meet changing needs and aspirations.
+    
+    [Residential](/cs/infoweb/residential)
+    
+    Whether you are buying, selling, or already living in an HDB flat, everything you need to know about residential properties is housed here.
+    
+    [Community](/cs/infoweb/community)
+    
+    More than homes, our HDB towns are vibrant places to enjoy to the fullest. There is so much in place for you to bond with your neighbours and create an active and cohesive community.
+    
+    [Business](/cs/infoweb/business)
+    
+    Get the information you need for any business involving HDB homes, properties, commercial spaces, or land under our management.
+    
+    [Car Parks](/cs/infoweb/car-parks)
+    
+    You can find out more about the types of HDB car parks, important car park information, and parking offences.
+    
+    [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    Transact with us at your convenience. You can submit an application, submit an online enquiry, or make an appointment with us.
+    
+    *   [Vision, Mission, and Values](/about-us/vision-mission-and-values)
+    *   [Our Role](/about-us/our-role)
+    *   [HDB History and Towns](/about-us/history)
+    *   [Designing for Life Roadmap](/about-us/hdbs-refreshed-roadmap-designing-for-life)
+    *   [Our Logo](/about-us/our-logo)
+    
+    *   [Organisation Structure](/about-us/organisation-structure)
+    *   [Achievements and Accolades](/about-us/achievements-and-accolades)
+    *   [Research and Innovation](/about-us/research-and-innovation)
+    *   [Careers](/about-us/careers)
+    *   [Scholarships and Internships](/about-us/scholarships-and-internships)
+    
+    *   [News & Publications](/about-us/news-and-publications)
+    
+*   [Residential](/residential)
+    
+    [About Us](/cs/infoweb/about-us)
+    
+    The Housing & Development Board (HDB) is Singapore's public housing authority and a statutory board under the Ministry of National Development. We develop public housing to provide Singaporeans with affordable, quality homes, and a better living environment. Focusing on nurturing a strong family and community spirit, public housing policies and schemes are formulated to meet changing needs and aspirations.
+    
+    [Residential](/cs/infoweb/residential)
+    
+    Whether you are buying, selling, or already living in an HDB flat, everything you need to know about residential properties is housed here.
+    
+    [Community](/cs/infoweb/community)
+    
+    More than homes, our HDB towns are vibrant places to enjoy to the fullest. There is so much in place for you to bond with your neighbours and create an active and cohesive community.
+    
+    [Business](/cs/infoweb/business)
+    
+    Get the information you need for any business involving HDB homes, properties, commercial spaces, or land under our management.
+    
+    [Car Parks](/cs/infoweb/car-parks)
+    
+    You can find out more about the types of HDB car parks, important car park information, and parking offences.
+    
+    [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    Transact with us at your convenience. You can submit an application, submit an online enquiry, or make an appointment with us.
+    
+    *   [Buying a Flat](/residential/buying-a-flat)
+    *   [Selling a Flat](/residential/selling-a-flat)
+    *   [Servicing Your HDB Housing Loan](/residential/servicing-your-hdb-housing-loan)
+    *   [Renting a Flat](/residential/renting-a-flat)
+    *   [Living in an HDB Flat](/residential/living-in-an-hdb-flat)
+    
+    *   [Shopping in Your Neighbourhood](/residential/where2shop)
+    *   [Renting Out a Flat/ Bedroom](/residential/renting-out-a-flat-bedroom)
+    *   [Season Parking](/residential/season-parking)
+    
+*   [Community](/community)
+    
+    [About Us](/cs/infoweb/about-us)
+    
+    The Housing & Development Board (HDB) is Singapore's public housing authority and a statutory board under the Ministry of National Development. We develop public housing to provide Singaporeans with affordable, quality homes, and a better living environment. Focusing on nurturing a strong family and community spirit, public housing policies and schemes are formulated to meet changing needs and aspirations.
+    
+    [Residential](/cs/infoweb/residential)
+    
+    Whether you are buying, selling, or already living in an HDB flat, everything you need to know about residential properties is housed here.
+    
+    [Community](/cs/infoweb/community)
+    
+    More than homes, our HDB towns are vibrant places to enjoy to the fullest. There is so much in place for you to bond with your neighbours and create an active and cohesive community.
+    
+    [Business](/cs/infoweb/business)
+    
+    Get the information you need for any business involving HDB homes, properties, commercial spaces, or land under our management.
+    
+    [Car Parks](/cs/infoweb/car-parks)
+    
+    You can find out more about the types of HDB car parks, important car park information, and parking offences.
+    
+    [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    Transact with us at your convenience. You can submit an application, submit an online enquiry, or make an appointment with us.
+    
+    *   [HDB Community Day 2023](/community/hdb-community-day-2023)
+    *   [Creating Vibrant Places](/community/creating-vibrant-places)
+    *   [Caring for Your Neighbours](/community/caring-for-your-neighbours)
+    *   [Practising Eco-Living](/community/practising-ecoliving)
+    *   [Getting Involved](/community/getting-involved)
+    
+    *   [Community Publications](/community/community-publications)
+    
+*   [Business](/business)
+    
+    [About Us](/cs/infoweb/about-us)
+    
+    The Housing & Development Board (HDB) is Singapore's public housing authority and a statutory board under the Ministry of National Development. We develop public housing to provide Singaporeans with affordable, quality homes, and a better living environment. Focusing on nurturing a strong family and community spirit, public housing policies and schemes are formulated to meet changing needs and aspirations.
+    
+    [Residential](/cs/infoweb/residential)
+    
+    Whether you are buying, selling, or already living in an HDB flat, everything you need to know about residential properties is housed here.
+    
+    [Community](/cs/infoweb/community)
+    
+    More than homes, our HDB towns are vibrant places to enjoy to the fullest. There is so much in place for you to bond with your neighbours and create an active and cohesive community.
+    
+    [Business](/cs/infoweb/business)
+    
+    Get the information you need for any business involving HDB homes, properties, commercial spaces, or land under our management.
+    
+    [Car Parks](/cs/infoweb/car-parks)
+    
+    You can find out more about the types of HDB car parks, important car park information, and parking offences.
+    
+    [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    Transact with us at your convenience. You can submit an application, submit an online enquiry, or make an appointment with us.
+    
+    *   [Commercial](/business/commercial)
+    *   [Building Professionals (BGBiz)](/business/building-professionals)
+    *   [Renovation Contractors](/business/renovation-and-repair-contractors)
+    *   [Land Developers and Land Users](/business/land-developers-and-land-users)
+    *   [Tenderers](/business/tenderers)
+    
+    *   [Estate Agents & Salespersons](/business/estate-agents-and-salespersons)
+    
+*   [Car Parks](/car-parks)
+    
+    [About Us](/cs/infoweb/about-us)
+    
+    The Housing & Development Board (HDB) is Singapore's public housing authority and a statutory board under the Ministry of National Development. We develop public housing to provide Singaporeans with affordable, quality homes, and a better living environment. Focusing on nurturing a strong family and community spirit, public housing policies and schemes are formulated to meet changing needs and aspirations.
+    
+    [Residential](/cs/infoweb/residential)
+    
+    Whether you are buying, selling, or already living in an HDB flat, everything you need to know about residential properties is housed here.
+    
+    [Community](/cs/infoweb/community)
+    
+    More than homes, our HDB towns are vibrant places to enjoy to the fullest. There is so much in place for you to bond with your neighbours and create an active and cohesive community.
+    
+    [Business](/cs/infoweb/business)
+    
+    Get the information you need for any business involving HDB homes, properties, commercial spaces, or land under our management.
+    
+    [Car Parks](/cs/infoweb/car-parks)
+    
+    You can find out more about the types of HDB car parks, important car park information, and parking offences.
+    
+    [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    Transact with us at your convenience. You can submit an application, submit an online enquiry, or make an appointment with us.
+    
+    *   [Car Park Signboards](/car-parks/car-park-signboards)
+    *   [Parking Lot Line Markings](/car-parks/parking-lot-line-markings)
+    *   [Car Park Location Map](/car-parks/car-park-location-map)
+    *   [Parking Offences](/car-parks/parking-offences)
+    *   [Season Parking](/car-parks/season-parking)
+    
+    *   [Short-Term Parking](/car-parks/shortterm-parking)
+    *   [Car Parks for Business Activities](/car-parks/car-parks-for-business-activities)
+    *   [Parking@HDB](/car-parks/parkinghdb)
+    
+*   [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    [About Us](/cs/infoweb/about-us)
+    
+    The Housing & Development Board (HDB) is Singapore's public housing authority and a statutory board under the Ministry of National Development. We develop public housing to provide Singaporeans with affordable, quality homes, and a better living environment. Focusing on nurturing a strong family and community spirit, public housing policies and schemes are formulated to meet changing needs and aspirations.
+    
+    [Residential](/cs/infoweb/residential)
+    
+    Whether you are buying, selling, or already living in an HDB flat, everything you need to know about residential properties is housed here.
+    
+    [Community](/cs/infoweb/community)
+    
+    More than homes, our HDB towns are vibrant places to enjoy to the fullest. There is so much in place for you to bond with your neighbours and create an active and cohesive community.
+    
+    [Business](/cs/infoweb/business)
+    
+    Get the information you need for any business involving HDB homes, properties, commercial spaces, or land under our management.
+    
+    [Car Parks](/cs/infoweb/car-parks)
+    
+    You can find out more about the types of HDB car parks, important car park information, and parking offences.
+    
+    [e-Services](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList)
+    
+    Transact with us at your convenience. You can submit an application, submit an online enquiry, or make an appointment with us.
+    
+    *   [Residential](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=Buying_a_New_Flat)
+    *   [Business](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=Commercial)
+    *   [Car Parks](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=Car_Park_Information)
+    *   [General](https://services2.hdb.gov.sg/webapp/FI10AWESVCLIST/FI10SEServiceList?category=General)
+    
+
+[![Housing & Development Board Logo](/html/Dashboard/Foundation/Theming/images/site-logo-small.png)](/cs/infoweb/homepage)
+
+Login
+
+[Login to My HDBPage](https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp) [Login to My Business](https://services2.hdb.gov.sg/webapp/FI10AWBIZ/FI10PBizOverview.jsp)
+
+Toggle navigation
+
+Alert
+
+ Search
+
+![Residential](/-/media/HDBContent/Images/General/residential-masthead.ashx)
+
+Residential
+
+[Acceptance and Approval Arrow down icon](javascript:;)
+
+*   *   [Application](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/application)
+        
+    *   [Acceptance and Approval](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/acceptance-and-approval)
+        
+    *   [Request for Enhanced Contra Facility](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/request-for-enhanced-contra-facility)
+        
+
+.at-share-tbx-element .at-share-btn { padding: 10px; }
+
+[Home](/cs/infoweb/homepage) [Residential](/residential) [Buying a Flat](/residential/buying-a-flat) [Buying Procedure for Resale Flats](/residential/buying-a-flat/buying-procedure-for-resale-flats) [Resale Application](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application) [Acceptance and Approval](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/acceptance-and-approval)
+
+Acceptance and Approval
+=======================
+
+After HDB receives the complete resale application and supporting documents from you and the sellers, we will verify both parties’ eligibility and review the documents. If the application and documents are in order, we will notify you and the sellers of HDB’s acceptance of the application via SMS or email.
+
+hr { height: 1px; border-top: 1px solid #ccc; margin: 1em 0; padding: 0 } .accordion-navigation .flickr-embed-frame { height: 453px !important; } @media only screen and (max-width: 570px) { .speak-img { float: none !important; } .accordion-navigation .flickr-embed-frame { height: 267px !important; width: 356px !important; } .accordion-navigation .flickr-embed-frame .flickr-embed-photo.show-navigation, .accordion-navigation .flickr-embed-frame .flickr-embed-photo.show-navigation .slide img { height: 267px !important; width: 356px !important; } }
+
+[
+
+Acknowledge and endorse resale documents
+----------------------------------------
+
+You and the sellers must endorse the documents before HDB may approve the resale application.
+
+Arrow down icon](#Acknowledgeandendorseresaledocuments-1)
+
+We will prepare the necessary documents for you and the sellers to endorse, which will be ready about 3 weeks after the application have been accepted.
+
+Once the documents are ready, they will be posted on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard), and we will notify you and the sellers via SMS to log in to My Flat Dashboard to endorse the documents.
+
+If you or the sellers do not endorse the documents within the given timeframe, the resale application may be cancelled.
+
+If you appoint HDB as the solicitors for the purchase of the flat, the documents to endorse include:
+
+**Buyer’s financial plan**
+
+A proposed financial plan based on what you have stated in your resale application.
+
+If you wish to make changes to the draft financial plan, please revise and endorse the financial plan in My Flat Dashboard.
+
+**CPF withdrawal**
+
+The CPF withdrawal based on the endorsed financial plan.
+
+Please ensure that all the buyers have sufficient savings in the CPF Ordinary Accounts for the payment. If there are insufficient funds in the CPF accounts at the point of the deduction, you have to pay any shortfall in cash.
+
+**Health declaration for CPF Board’s Home Protection Scheme**
+
+If you are taking an HDB housing loan and/ or using your CPF savings to pay for the flat purchase, you must fill up a Health Declaration form to declare your share of the insurance coverage and health status, for the CPF Board’s Home Protection Scheme (HPS).
+
+**Resale documents**
+
+You must endorse all the undertakings and forms posted on My Flat Dashboard.
+
+If you have applied for the Proximity Housing Grant (PHG) ([Families](/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility/couples-and-families/proximity-housing-grant-families) or [Singles](/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility/singles/proximity-housing-grant-singles)), your parents or child will also need to endorse the undertakings on My Flat Dashboard. They will need to log in the dashboard via their Singpass.
+
+If you appoint your own solicitors for the purchase of the flat, the documents that you will endorse may be different from the above.
+
+##### Important note:
+
+*   The resale documents must be endorsed individually by all the buyers. Read through the documents before endorsing them. The documents are in PDF format and you may save a copy for reference
+*   You can check the status of the endorsement process via My Flat Dashboard
+
+[
+
+Pay legal fees and initial payment
+----------------------------------
+
+After you have endorsed the documents, you must make payment for all the required fees and initial payment by the deadline given by HDB.
+
+Arrow down icon](#Paylegalfeesandinitialpayment-2)
+
+Legal fees
+----------
+
+The legal fees payable will depend on the solicitors whom you have appointed to act for you.
+
+If you engage HDB to act for you in the purchase, you may get an estimated legal fee by using our [Legal Fees Enquiry](https://services2.hdb.gov.sg/webapp/BB14LFEESENQ/BB14PHomePage.jsp) e-Service.
+
+#### HDB is acting in the purchase
+
+Type of Fee
+
+Amount
+
+**Legal fees**
+
+To HDB
+
+(Subject to GST)
+
+**For transfer of flat ownership to the buyers**
+
+(Based on the resale price and subject to a minimum fee of $21.80 (inclusive of GST); fee is rounded up to the nearest dollar)
+
+*   First $30,000: 13.50 cents per $100 or part thereof
+*   Next $30,000: 10.80 cents per $100 or part thereof
+*   Remainder: 9 cents per $100 or part thereof
+
+**For mortgage if the buyers are taking an HDB housing loan**
+
+(Based on loan amount and subject to a minimum mortgagee fee of $21.80 (inclusive of GST) and a minimum mortgagor’s fee of $21.80 (inclusive of GST); fee is rounded up to the nearest dollar)
+
+*   First $30,000: 13.50 cents per $100 or part thereof
+*   Next $30,000: 10.80 cents per $100 or part thereof
+*   Remainder: 9 cents per $100 or part thereof
+
+If HDB is acting for you in the mortgage of the flat to HDB:
+
+*   Minimum mortgagor's fee: $21.80 (inclusive of GST) (for all flat types); and
+*   Minimum mortgagee's fee: $21.80 (inclusive of GST) (for 1- and 2-room flats) and $43.60 (inclusive of GST) (for 3-room and bigger flats)
+
+**Registration and microfilming**
+
+To Singapore Land Authority (SLA)
+
+*   Title Search Fee: $32
+*   Registration fee for Transfer: $38.30
+*   Registration fee for Mortgage (if the buyers are taking an HDB housing loan): $38.30
+*   Buyer’s caveat: $64.45
+*   Mortgagee’s caveat (if the buyers are taking an HDB housing loan): $64.45
+
+**Miscellaneous fees**
+
+To HDB
+
+(Inclusive of GST)
+
+$16.35
+
+#### Private solicitors are acting in the purchase
+
+Type of Fee
+
+Amount
+
+**Legal fees**
+
+To HDB
+
+(Subject to GST)
+
+**For mortgage if the buyers are taking an HDB housing loan**
+
+(Based on loan amount and subject to a minimum fee of $21.80 (inclusive of GST) for 1- and 2-room flats and $43.60 (inclusive of GST) for other flat types; fee is rounded up to the nearest dollar)
+
+*   First $30,000: 13.50 cents per $100 or part thereof
+*   Next $30,000: 10.80 cents per $100 or part thereof
+*   Remainder: 9 cents per $100 or part thereof
+
+**Registration and microfilming**
+
+To SLA
+
+*   Title Search Fee: $32
+*   Registration fee for Transfer: $38.30
+*   Registration fee for Mortgage (if the buyers are taking an HDB housing loan): $38.30
+*   Buyer’s caveat: $64.45
+*   Mortgagee’s caveat (if the buyers are taking an HDB housing loan): $64.45
+
+**Miscellaneous fees**
+
+(Inclusive of GST)
+
+$5.45
+
+#### Payment
+
+After endorsing the documents, you must pay the legal fees by the deadline given by HDB:
+
+Payment Modes
+
+Details
+
+Credit Card
+
+Visa or Mastercard
+
+NETS (using AXS)
+
+For payments less than $9,999
+
+Please ensure that your NETS daily withdrawal limit is sufficient to make the payment
+
+PayNow  
+
+For supported banks
+
+CPF savings
+
+Only applicable for legal fees
+
+Stamp duty
+----------
+
+The stamp duty is payable by CPF savings. If you wish to use cash instead of your CPF savings, please contact us using our [e-Feedback form](https://services2.hdb.gov.sg/webapp/BF12AWFeedback/BF12SFrontController?service=ServiceFeedback&operation=createFeedback) with your request after your resale application is accepted. If you do not have enough CPF savings to pay the stamp duty in full, or you are not taking any housing loan but engaging HDB to act for you in the purchase, you must pay the stamp fees during your resale completion appointment by cashier's order and/ or NETS.
+
+**Stamp duty**
+
+To Commissioner of Stamp Duties, Inland Revenue Authority of Singapore (IRAS)
+
+You can also use the [Stamp Duty Calculator](https://mytax.iras.gov.sg/login/selection) found on the [IRAS's website](https://www.iras.gov.sg/taxes/stamp-duty/for-property).
+
+**For Option to Purchase**
+
+(Based on selling price or market valuation, whichever is higher) 
+
+*   First $180,000: 1%
+*   Next $180,000: 2%
+*   Next $640,000: 3%
+*   Remaining Amount: 4%
+
+**For mortgage**
+
+(Based on loan amount)
+
+*   0.40% of the loan granted, subject to a maximum of $500
+
+**Note:** The stamp duty will be collected by the solicitor who is acting for purchaser or mortgagor.
+
+**Note:** Singapore Permanent Resident (SPR) households buying their first HDB resale flat must pay the Additional Buyer's Stamp Duty (ABSD), on top of the Buyer's Stamp Duty, during your resale completion appointment. For more information on the ABSD, please visit [IRAS’s website](https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)).
+
+Initial payment
+---------------
+
+You must make the initial payment of the purchase price after you have endorsed the resale documents, by the deadline given by HDB, if you are taking a housing loan from HDB or financial institution (FI). The amount is based on the lower of the resale price or value, as well as the type of housing loan you may be taking. The balance purchase price must be paid on or before the [resale completion](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion).
+
+For those who are taking a housing loan from an FI, the private solicitors acting in the purchase will arrange for you to make the initial payment. 
+
+Housing Loan from HDB
+
+Housing Loan from Financial Institution
+
+Loan-To-Value Limit of 75%
+
+Loan-To-Value Limit of 55%
+
+**Initial Payment**
+
+25% of the lower of resale price or value of the flat^
+
+25% of the lower of resale price or value of the flat
+
+45% of the lower of resale price or value of the flat
+
+**Mode of Payment**
+
+25% using cash and/ or CPF Ordinary Account savings (including CPF housing grants if eligible) or cash
+
+*   Minimum cash payment of 5% of the lower of resale price or value of flat
+*   Remaining 20% using cash and/ or CPF Ordinary Account savings (including CPF housing grants if eligible)
+
+*   Minimum cash payment of 10% of the lower of resale price or value of flat
+*   Remaining 35% using cash and/ or CPF Ordinary Account savings (including CPF housing grants if eligible)
+
+**When to Pay**
+
+Online CPF withdrawal after you have confirmed the financial plan via [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard)
+
+Please check with your solicitors for the payment schedule.
+
+^ For complete resale applications received before 20 August 2024, the LTV limit for HDB housing loan is at 80%, and the initial payment is 20% of the lower of resale price or value of flat.  
+  
+If you are not taking any housing loan but engaging HDB to act for you in the purchase, you do not need to make initial payment to HDB. However, you need to pay the applicable legal fees, such as the legal fees to HDB, Title Search fee and Buyer’s caveat after endorsing the resale documents. You must pay the full purchase price by resale completion, which includes cash on completion and/ or CPF Ordinary Account savings (including CPF housing grants, if eligible) before your resale completion appointment.
+
+[
+
+Approval of resale application
+------------------------------
+
+We will grant an approval for the resale transaction in 2 weeks' time after you and the sellers have endorsed the resale documents and made the necessary payments.
+
+Arrow down icon](#Approvalofresaleapplication-3)
+
+Both parties are advised to endorse the documents and make all payments promptly to avoid any delay or cancellation of the resale application.
+
+We will notify you and the sellers of the approval via SMS and email and post the approval letter on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
+
+[
+
+Resale completion
+-----------------
+
+We will notify you and the sellers via SMS once the appointment is scheduled.
+
+Arrow down icon](#Resalecompletion-4)
+
+You may log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) to view the completion letter, which provides information on what you need to prepare for the appointment, such as payment of the balance purchase price and any outstanding fees as well as documents required for the appointment.
+
+If you have appointed HDB as solicitors for the purchase of the flat, you must attend the resale completion appointment in person at the HDB Hub.
+
+Find out what you need to prepare before the [resale completion](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion) appointment.
+
+h5.next\_steps{ font-size:20px; } ul.list-section{ display:flex; margin: 0 -10px; padding: 0; flex-wrap: wrap; } ul.list-section li{ float:left; width:25%; list-style: none; padding: 10px; } ul.list-section li p{ font-size:14px; } ul.list-section a, ul.list-section a:hover, ul.list-section a:focus{ color:#595959; } @media only screen and (max-width: 64.063em) { ul.list-section li{ width:50%; } } @media only screen and (max-width: 40.063em) { ul.list-section li{ width:100%; } }
+
+* * *
+
+##### NEXT STEPS
+
+*   ##### [Resale Completion](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion)
+    
+    [
+    
+    Obtain details on the resale completion appointment and the actions to take before and during the appointment.
+    
+    ](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion)
+*   ##### [Conditions After Buying](/residential/buying-a-flat/conditions-after-buying)
+    
+    [
+    
+    Learn about the conditions that flat buyers have to follow after moving into their flat.
+    
+    ](/residential/buying-a-flat/conditions-after-buying)
+
+.recommended-item-title p { font-size: 1.4rem; }
+
+[](javascript:;)
+
+Housing & Development Board
+
+*   [About Us](/about-us)
+    *   [Vision, Mission, and Values](/about-us/vision-mission-and-values)
+    *   [Our Role](/about-us/our-role)
+    *   [HDB History and Towns](/about-us/history)
+    *   [Designing for Life Roadmap](/about-us/hdbs-refreshed-roadmap-designing-for-life)
+    *   [Our Logo](/about-us/our-logo)
+    *   [Organisation Structure](/about-us/organisation-structure)
+    *   [Achievements and Accolades](/about-us/achievements-and-accolades)
+    *   [Research and Innovation](/about-us/research-and-innovation)
+    *   [Careers](/about-us/careers)
+    *   [Scholarships and Internships](/about-us/scholarships-and-internships)
+    *   [News & Publications](/about-us/news-and-publications)
+*   [Residential](/residential)
+    *   [Buying a Flat](/residential/buying-a-flat)
+    *   [Selling a Flat](/residential/selling-a-flat)
+    *   [Servicing Your HDB Housing Loan](/residential/servicing-your-hdb-housing-loan)
+    *   [Renting a Flat](/residential/renting-a-flat)
+    *   [Living in an HDB Flat](/residential/living-in-an-hdb-flat)
+    *   [Shopping in Your Neighbourhood](/residential/where2shop)
+    *   [Renting Out a Flat/ Bedroom](/residential/renting-out-a-flat-bedroom)
+    *   [Season Parking](/residential/season-parking)
+*   [Community](/community)
+    *   [HDB Community Day 2023](/community/hdb-community-day-2023)
+    *   [Creating Vibrant Places](/community/creating-vibrant-places)
+    *   [Caring for Your Neighbours](/community/caring-for-your-neighbours)
+    *   [Practising Eco-Living](/community/practising-ecoliving)
+    *   [Getting Involved](/community/getting-involved)
+    *   [Community Publications](/community/community-publications)
+*   [Business](/business)
+    *   [Commercial](/business/commercial)
+    *   [Building Professionals (BGBiz)](/business/building-professionals)
+    *   [Renovation Contractors](/business/renovation-and-repair-contractors)
+    *   [Land Developers and Land Users](/business/land-developers-and-land-users)
+    *   [Tenderers](/business/tenderers)
+    *   [Estate Agents & Salespersons](/business/estate-agents-and-salespersons)
+*   [Car Parks](/car-parks)
+    *   [Car Park Signboards](/car-parks/car-park-signboards)
+    *   [Parking Lot Line Markings](/car-parks/parking-lot-line-markings)
+    *   [Car Park Location Map](/car-parks/car-park-location-map)
+    *   [Parking Offences](/car-parks/parking-offences)
+    *   [Season Parking](/car-parks/season-parking)
+    *   [Short-Term Parking](/car-parks/shortterm-parking)
+    *   [Car Parks for Business Activities](/car-parks/car-parks-for-business-activities)
+    *   [Parking@HDB](/car-parks/parkinghdb)
+
+*   [Contact Us](/cs/infoweb/contact-us)
+*   [Feedback](https://services2.hdb.gov.sg/webapp/BF12AWFeedback/BF12SFrontController?service=ServiceFeedback&operation=createFeedback)
+*   [Facebook](https://www.facebook.com/SingaporeHDB)
+    
+    [Twitter](http://www.twitter.com/SingaporeHDB)
+    
+    [LinkedIn](http://www.linkedin.com/company/singaporehdb)
+    
+    [Youtube](https://www.youtube.com/user/singaporeHDB)
+    
+    [Telegram](https://t.me/SingaporeHDB)
+    
+    [MyNiceHome](https://mynicehome.gov.sg/cs/mnh/home)
+    
+
+[Subscribe to HDB eAlert Service](https://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp)
+
+[Download Mobile@HDB](/cs/infoweb/mobile-hdb)
+
+[Report Vulnerability](https://www.tech.gov.sg/report_vulnerability) [Privacy Statement](/cs/infoweb/privacy-statement) [Terms of Use](/cs/infoweb/terms-of-use) [Sitemap](/cs/infoweb/sitemap) [Site Requirements](/cs/infoweb/site-requirements)
+
+© 2024, Government of Singapore
+
+Last Updated 19 September 2024
