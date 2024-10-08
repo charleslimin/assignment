@@ -4,7 +4,7 @@
 # Set up and run this Streamlit App
 import streamlit as st
 # from helper_functions import llm # <--- Not needed anymore. The helper function is now directly called by `customer_query_handler` 🆕
-from logics.resale_eligibility_query_handler import process_user_message
+from logics.resale_eligibility_check_handler import process_user_message
 #Importing the pandas Library 
 import pandas as pd
 
@@ -185,6 +185,8 @@ if form.form_submit_button("Submit"):
         """
     st.write("Question:")
     st.write(question)
+    response = process_user_message(question) #<--- This calls the `process_user_message` function that we have created 🆕
+    st.write(response)
 #```
 
 #------------------------------ END OF SCRIPT ------------------------------
