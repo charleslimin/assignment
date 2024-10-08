@@ -17,11 +17,11 @@ import pandas as pd
 # region <--------- Streamlit App Configuration --------->
 st.set_page_config(
     layout="centered",
-    page_title="My Streamlit App"
+    page_title="Resale Flat Eligibility Checker"
 )
 # endregion <--------- Streamlit App Configuration --------->
 
-st.title("Streamlit App")
+st.title("Resale Flat Eligibility Checker")
 
 if "app2flg" not in st.session_state:
     st.session_state.app1flg = False

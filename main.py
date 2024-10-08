@@ -17,11 +17,11 @@ import pandas as pd
 # region <--------- Streamlit App Configuration --------->
 st.set_page_config(
     layout="centered",
-    page_title="My Streamlit App"
+    page_title="Buying HDB Resale Flat"
 )
 # endregion <--------- Streamlit App Configuration --------->
 
-st.title("Buying HDB resale flat")
+st.title("Buying HDB Resale Flat")
 
 form = st.form(key="form")
 form.subheader("Ask question about procedure to buy HDB resale flat")

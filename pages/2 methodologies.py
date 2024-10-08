@@ -11,16 +11,13 @@ st.set_page_config(
 )
 # endregion <--------- Streamlit App Configuration --------->
 
-st.title("About This App")
+st.title("Methodology Flow Chart")
 
-st.write("This is a Streamlit App that demonstrates how to use OpenAI API to generate text completions")
+with st.expander("Buying HDB resale flat"):
+    st.image("./data/use_case_1_flowchart.JPG", caption="Buying HDB Resale Flat")
 
-with st.expander("How to use this app?"):
-    st.write('''
-        1. Enter your prompt in the text area.
-        2. Click the Submit button.
-        3. The app will generate a text completion based on your prompt.
-    ''')
+with st.expander("Resale Flat Eligibility Checker"):
+    st.image("./data/use_case_2_flowchart.JPG", caption="Resale Flat Eligibility Checker")
 
 #```
 
