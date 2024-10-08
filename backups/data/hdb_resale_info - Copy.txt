@@ -24,9 +24,9 @@ Log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-
 
 #### Step 1 and 2: Obtain an HDB Flat Eligibility (HFE) Letter
 
-Apply for an [HDB Flat Eligibility (HFE) letter](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter) on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) for a holistic understanding of your housing and financing options before you embark on your home buying journey.†The HFE letter will inform you upfront of your eligibility to purchase a new or resale flat, as well as the amounts of CPF housing grants and HDB housing loan you are eligible for.†Read our [frequently asked questions](https://www.hdb.gov.sg/cs/infoweb/hdb-flat-portal/HFE/get-help) on the HFE letter.
+Apply for an [HDB Flat Eligibility (HFE) letter](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter) on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) for a holistic understanding of your housing and financing options before you embark on your home buying journey.¬†The HFE letter will inform you upfront of your eligibility to purchase a new or resale flat, as well as the amounts of CPF housing grants and HDB housing loan you are eligible for.¬†Read our [frequently asked questions](https://www.hdb.gov.sg/cs/infoweb/hdb-flat-portal/HFE/get-help) on the HFE letter.
 
-You may request for an In-Principle Approval from the participating financial institutions when you apply for an HFE letter.†
+You may request for an In-Principle Approval from the participating financial institutions when you apply for an HFE letter.¬†
 
 #### Step 3: Search for a suitable flat and obtain an Option to Purchase (OTP) from flat seller
 
@@ -44,9 +44,9 @@ Obtain an [Option to Purchase (OTP)](https://www.hdb.gov.sg/residential/buying-a
 
 If you intend to get an [HDB housing loan](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-hdb), you will need a valid HFE letter^ from HDB before flat sellers may grant you an OTP.
 
-If you have indicated that you intend to get an†HDB housing loan†in your HFE application, the loan outcome will be reflected in your HFE letter accordingly.
+If you have indicated that you intend to get an¬†HDB housing loan¬†in your HFE application, the loan outcome will be reflected in your HFE letter accordingly.
 
-If you†have indicated that you intend to get a [housing loan from a financial institution](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions)†in your HFE application, you must have a valid Letter of Offer (LO) before you exercise the OTP. You may concurrently request an In-Principle Approval and LO from participating financial institutions when applying for the HFE letter^ on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
+If you¬†have indicated that you intend to get a [housing loan from a financial institution](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions)¬†in your HFE application, you must have a valid Letter of Offer (LO) before you exercise the OTP. You may concurrently request an In-Principle Approval and LO from participating financial institutions when applying for the HFE letter^ on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
 
 ^ Refer to Steps 1 and 2 to determine if you need a valid HFE letter.
 
@@ -74,7 +74,7 @@ After the documents are endorsed and fees paid, HDB will grant an [approval](htt
 
 #### Step 11: Attend completion appointment
 
-[Resale completion](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion) is about 8 weeks from the date of HDBís acceptance of the resale application. This is the earliest possible date to complete the transaction. If you wish to defer the completion, please discuss with your sellers and let us have a written confirmation (signed by both sellers and buyers) via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain).†You and the sellers will be notified via SMS of the appointment. You may also log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) for the appointment details.
+[Resale completion](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion) is about 8 weeks from the date of HDB‚Äôs acceptance of the resale application. This is the earliest possible date to complete the transaction. If you wish to defer the completion, please discuss with your sellers and let us have a written confirmation (signed by both sellers and buyers) via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain).¬†You and the sellers will be notified via SMS of the appointment. You may also log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) for the appointment details.
 
 * * *
 
@@ -163,7 +163,7 @@ Read our guides below when planning your resale flat purchase:
 
 
 * Finding a flat: Managing the flat purchase
-  *             After obtaining an HFE letter, look for a suitable flat that meets your budget and needs.            Browse resale flat listings on the HDB Flat Portal. Read our guide on finding a flat for more information on the Resale Flat Listing (RFL) service and other services you can use to help plan and prepare for your flat purchase.            :             You can either manage the flat purchase on your own or engage the services of a salesperson.            If you are managing the flat purchase on your own, read our guide on preparations for the flat purchase, such as considering your budget, searching for a flat and negotiating the price. The guide also includes practical tips on engaging a salesperson, if you decide to do so.            If you are engaging a salesperson, check the salespersonís phone number with CEA's Public Register to verify the identity of the salesperson and ensure that he/ she is a registered salesperson, and safeguard yourself against scammers.            Important note:            The applicant(s) and occupier(s) listed in your resale flat application must remain the same as those in your HFE letter application.            If you need to make any changes to your HFE letter, e.g. addition/ removal of household member(s), change in status from an applicant to an occupier or vice versa, marital status, citizenship, ownership of private properties, etc., please follow the steps below:                                                                        Submitted a resale application
+  *             After obtaining an HFE letter, look for a suitable flat that meets your budget and needs.            Browse resale flat listings on the HDB Flat Portal. Read our guide on finding a flat for more information on the Resale Flat Listing (RFL) service and other services you can use to help plan and prepare for your flat purchase.            :             You can either manage the flat purchase on your own or engage the services of a salesperson.            If you are managing the flat purchase on your own, read our guide on preparations for the flat purchase, such as considering your budget, searching for a flat and negotiating the price. The guide also includes practical tips on engaging a salesperson, if you decide to do so.            If you are engaging a salesperson, check the salesperson‚Äôs phone number with CEA's Public Register to verify the identity of the salesperson and ensure that he/ she is a registered salesperson, and safeguard yourself against scammers.            Important note:            The applicant(s) and occupier(s) listed in your resale flat application must remain the same as those in your HFE letter application.            If you need to make any changes to your HFE letter, e.g. addition/ removal of household member(s), change in status from an applicant to an occupier or vice versa, marital status, citizenship, ownership of private properties, etc., please follow the steps below:                                                                        Submitted a resale application
   * Steps to take
 * Finding a flat: No
   *             After obtaining an HFE letter, look for a suitable flat that meets your budget and needs.            Browse resale flat listings on the HDB Flat Portal. Read our guide on finding a flat for more information on the Resale Flat Listing (RFL) service and other services you can use to help plan and prepare for your flat purchase.            :                                                     Cancel your HFE letter                            After cancellation, apply for a fresh HFE letter (i.e. complete Step 1 and Step 2 of the buying process again) via My Flat Dashboard                                                                            
@@ -239,9 +239,9 @@ You must have a valid HDB Flat Eligibility (HFE) letter before you can obtain an
 
 ](#Checkyoureligibilitytobuyaresaleflat-1)
 
-Start your journey by applying for an [HDB Flat Eligibility (HFE) letter](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter) via [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) for a holistic understanding of your housing and financing options before you embark on your home buying journey.†The HFE letter will inform you upfront of your eligibility to purchase a new or resale flat, as well as the amounts of CPF housing grants and HDB housing loan you are eligible for. Read our [frequently asked questions](https://www.hdb.gov.sg/cs/infoweb/hdb-flat-portal/HFE/get-help) on the HFE letter.
+Start your journey by applying for an [HDB Flat Eligibility (HFE) letter](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter) via [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) for a holistic understanding of your housing and financing options before you embark on your home buying journey.¬†The HFE letter will inform you upfront of your eligibility to purchase a new or resale flat, as well as the amounts of CPF housing grants and HDB housing loan you are eligible for. Read our [frequently asked questions](https://www.hdb.gov.sg/cs/infoweb/hdb-flat-portal/HFE/get-help) on the HFE letter.
 
-If you intend to get a [housing loan from a financial institution](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions), you must have a valid Letter of Offer (LO) before you exercise the OTP. You may request for an In-Principle Approval (IPA) from the participating financial institutions when you apply for an HFE letter and†request to convert the IPA to LO via†[My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
+If you intend to get a [housing loan from a financial institution](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions), you must have a valid Letter of Offer (LO) before you exercise the OTP. You may request for an In-Principle Approval (IPA) from the participating financial institutions when you apply for an HFE letter and¬†request to convert the IPA to LO via¬†[My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
 
 [
 
@@ -252,7 +252,7 @@ Plan your finances and work out your budget before you search for a suitable fla
 
 ](#Consideryourbudget-2)
 
-You may use a combination of cash, savings in your CPF Ordinary Account, and a [housing loan from HDB](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-hdb)†or a [financial institution (FI)](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions)†regulated by the Monetary Authority of Singapore to buy a flat.
+You may use a combination of cash, savings in your CPF Ordinary Account, and a [housing loan from HDB](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-hdb)¬†or a [financial institution (FI)](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions)¬†regulated by the Monetary Authority of Singapore to buy a flat.
 
 To plan for your flat purchase, you may use the [budget calculator](https://homes.hdb.gov.sg/home/calculator/budget) to estimate your budget and compare the information on housing loans offered by HDB and our participating FIs.
 
@@ -265,7 +265,7 @@ Make sure you set aside some cash savings for renovation and other necessary exp
 Search for a flat
 -----------------
 
-Search for a resale flat using HDBís Resale Flat Listing (RFL) service or through other reputable platforms.
+Search for a resale flat using HDB‚Äôs Resale Flat Listing (RFL) service or through other reputable platforms.
 
 ](#Searchforaflat-3)
 
@@ -274,7 +274,7 @@ After you have obtained an HFE letter (as well as an In-principle Approval lette
 You may also refer to property portals, newspaper advertisements or social media section in your search for a flat.
 
 *   [Your budget](https://homes.hdb.gov.sg/home/calculator/budget)
-*   Your housing needs, e.g. to live near parentsí or childís home, place of work, schools, etc.
+*   Your housing needs, e.g. to live near parents‚Äô or child‚Äôs home, place of work, schools, etc.
 *   Your ethnic group to buy a flat in the block, or your nationality if you are a Singapore Permanent Resident (SPR) household. Learn more about the [Ethnic Integration Policy (EIP) and SPR quota](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/plan-source-and-contract/planning-considerations/eip-spr-quota)
 *   Remaining lease of the flat\*
 
@@ -310,7 +310,7 @@ If you have any doubts, clarify with the flat sellers or their salesperson. Take
 
 Request the flat sellers to show proof that they own the flat and are eligible to sell it.
 
-Documents such as a printout from the flat sellersí [My HDBPage](https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp) at HDB InfoWEB, property tax statement, town council statement, or title deed are examples of documents that can confirm the owners of a flat.
+Documents such as a printout from the flat sellers‚Äô [My HDBPage](https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp) at HDB InfoWEB, property tax statement, town council statement, or title deed are examples of documents that can confirm the owners of a flat.
 
 [
 
@@ -366,7 +366,7 @@ Please submit the resale application as soon as possible to minimise unforeseeab
 
 **Extension of stay**
 
-To ease sellersí transition to their next home, sellers may arrange with you to extend their stay temporarily in the flat, for up to 3 months after the resale completion.
+To ease sellers‚Äô transition to their next home, sellers may arrange with you to extend their stay temporarily in the flat, for up to 3 months after the resale completion.
 
 The [temporary extension of stay](https://www.hdb.gov.sg/residential/selling-a-flat/resale-application/request-for-temporary-extension-of-stay) is subject to your agreement. If you agree, the minimum occupation period that you have to fulfil after the flat purchase will start only when the sellers have moved out of your flat.
 
@@ -388,11 +388,11 @@ Understand the HDB resale procedures
 Engage a salesperson
 --------------------
 
-You may engage a salesperson for a fee to help you manage the flat purchase. Nevertheless, you still need to know your eligibility to buy a resale flat and the financing of the flat purchase. You may read the information in ëManage the purchase on your owní, and also:
+You may engage a salesperson for a fee to help you manage the flat purchase. Nevertheless, you still need to know your eligibility to buy a resale flat and the financing of the flat purchase. You may read the information in ‚ÄòManage the purchase on your own‚Äô, and also:
 
 *   Read the Council for Estate Agents (CEA)'s [Consumer Guide](https://www.cea.gov.sg/4steps) and [educational materials](https://www.cea.gov.sg/consumers/educational-materials/guides-brochures) for practical tips when engaging the services of a salesperson
-*   Check the salespersonís phone number with [CEA's Public Register](https://www.cea.gov.sg/public-register) to verify his/her identity and ensure he/she is a registered salesperson, and safeguard yourself against scammers.
-*   Consider using the CEAís [Prescribed Estate Agency Agreement](https://www.cea.gov.sg/professionals/agreements_and_checklists) when engaging the salespersonís services
+*   Check the salesperson‚Äôs phone number with [CEA's Public Register](https://www.cea.gov.sg/public-register) to verify his/her identity and ensure he/she is a registered salesperson, and safeguard yourself against scammers.
+*   Consider using the CEA‚Äôs [Prescribed Estate Agency Agreement](https://www.cea.gov.sg/professionals/agreements_and_checklists) when engaging the salesperson‚Äôs services
 *   Ensure that you discuss with the salesperson and mutually agree on:
     *   The terms of service
     *   The commission payable
@@ -459,12 +459,12 @@ Please check to ensure compliance with the EIP/ SPR quota at each of the followi
 *   You exercise the OTP; and
 *   You and the flat sellers submit the respective portion of the resale application.
 
-\* A resale application is completed only when HDB receives both the buyersí and sellersí portions of the resale application and the necessary supporting documents.
+\* A resale application is completed only when HDB receives both the buyers‚Äô and sellers‚Äô portions of the resale application and the necessary supporting documents.
 
 About the EIP
 -------------
 
-The EIP is put in place to preserve Singaporeís multi-cultural identity and promote racial integration and harmony. It ensures that there is a balanced mix of the various ethnic communities in HDB towns. The EIP limits are set at block and neighbourhood levels based on the ethnic make-up of Singapore.
+The EIP is put in place to preserve Singapore‚Äôs multi-cultural identity and promote racial integration and harmony. It ensures that there is a balanced mix of the various ethnic communities in HDB towns. The EIP limits are set at block and neighbourhood levels based on the ethnic make-up of Singapore.
 
 For the purchase of an HDB flat, a household with members of different ethnic groups may choose to classify their household ethnicity under the ethnicity of any buyer(s) or spouse according to the race shown on their NRIC.
 
@@ -554,7 +554,7 @@ If your current flat is bought from HDB or a resale flat bought with a CPF Housi
 
 After the conversion, you cannot sub-divide the converted flat for sale, transfer, surrender, etc.
 
-Payment of upgrading costs†
+Payment of upgrading costs¬†
 ---------------------------
 
 You have to pay the upgrading cost according to the following:
@@ -596,7 +596,7 @@ You must use cash at the following stages:
 
 
 * Deposit to seller for Option to Purchase (OTP): Processing fee for Request for Value
-  * You must pay the sellers a deposit ($2 to $5,000), which consists of the Option Fee and Option Exercise Fee, during the granting and exercising of the Option to Purchase respectively.: If you intend to buy a resale flat using your CPF savings and/ or a housing loan, make a Request for Value to HDB to determine the flatís value. You will need to pay a processing fee of $120.
+  * You must pay the sellers a deposit ($2 to $5,000), which consists of the Option Fee and Option Exercise Fee, during the granting and exercising of the Option to Purchase respectively.: If you intend to buy a resale flat using your CPF savings and/ or a housing loan, make a Request for Value to HDB to determine the flat‚Äôs value. You will need to pay a processing fee of $120.
 
 
 #### Resale Application
@@ -651,7 +651,7 @@ You should also take note of the following conditions for using your CPF savings
 
     
 
-For information on the use of CPF savings, you may use the CPF Board's [online calculator](https://www.cpf.gov.sg/member/tools-and-services/calculators/cpf-housing-usage). For further enquiries on the use of CPF savings, please visit CPF Boardís [website](https://www.cpf.gov.sg/member/home-ownership/using-your-cpf-to-buy-a-home).
+For information on the use of CPF savings, you may use the CPF Board's [online calculator](https://www.cpf.gov.sg/member/tools-and-services/calculators/cpf-housing-usage). For further enquiries on the use of CPF savings, please visit CPF Board‚Äôs [website](https://www.cpf.gov.sg/member/home-ownership/using-your-cpf-to-buy-a-home).
 
 [
 
@@ -667,20 +667,20 @@ Buying a flat is a long-term commitment, and mortgage payments can stretch up to
 Housing loan from HDB
 ---------------------
 
-Before buying a flat and taking†[housing loan from HDB](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-hdb), you need to first obtain an [HDB Flat Eligibility (HFE) letter](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter). The HFE letter will provide you with a holistic understanding of your housing and financing options before you embark on your home buying journey. It will inform you upfront of your eligibility to purchase a new or resale flat, as well as the amount of CPF housing grants and HDB housing loan you are eligible for.
+Before buying a flat and taking¬†[housing loan from HDB](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-hdb), you need to first obtain an [HDB Flat Eligibility (HFE) letter](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter). The HFE letter will provide you with a holistic understanding of your housing and financing options before you embark on your home buying journey. It will inform you upfront of your eligibility to purchase a new or resale flat, as well as the amount of CPF housing grants and HDB housing loan you are eligible for.
 
 Do take note of the following:
 
 
 
 * Valid HFE letter: Household status            
-  *             You will need a valid HFE letter at all of the following stages:                            Before obtaining an Option to Purchase (OTP) from a flat seller                When you exercise the OTP                When you submit the resale application                        :             Your householdís eligibility for housing subsidies and HDB housing loan is assessed based on the core family nucleus in your HFE letter application, which is formed by the core member(s). Core members refer to the† applicant(s) and occupier(s) in an HFE letter application who enable the applicant(s) to qualify for a flat purchase under an eligibility scheme. All core members must remain in the flat application, and physically occupy the flat during the minimum occupation period (MOP)†after the flat purchase. Their names cannot be removed.            You and all core members must not have taken 2 or more housing loans from HDB.            
+  *             You will need a valid HFE letter at all of the following stages:                            Before obtaining an Option to Purchase (OTP) from a flat seller                When you exercise the OTP                When you submit the resale application                        :             Your household‚Äôs eligibility for housing subsidies and HDB housing loan is assessed based on the core family nucleus in your HFE letter application, which is formed by the core member(s). Core members refer to the¬† applicant(s) and occupier(s) in an HFE letter application who enable the applicant(s) to qualify for a flat purchase under an eligibility scheme. All core members must remain in the flat application, and physically occupy the flat during the minimum occupation period (MOP)¬†after the flat purchase. Their names cannot be removed.            You and all core members must not have taken 2 or more housing loans from HDB.            
 * Valid HFE letter: Second HDB housing loan
   *             You will need a valid HFE letter at all of the following stages:                            Before obtaining an Option to Purchase (OTP) from a flat seller                When you exercise the OTP                When you submit the resale application                        : The eligible loan amount will be granted only after you have paid for the flat purchase with the CPF refund and up to 50% of the cash proceeds from the disposal of your current or last owned flat/ property.
 * Valid HFE letter: Retaining up to $20,000 CPF savings in the Ordinary Account (OA)
   *             You will need a valid HFE letter at all of the following stages:                            Before obtaining an Option to Purchase (OTP) from a flat seller                When you exercise the OTP                When you submit the resale application                        :             You and your co-applicant(s) may each retain up to $20,000 CPF savings in the Ordinary Account (OA). The rest of the available CPF OA balances must be used to pay for the flat purchase.            
 * Valid HFE letter: Remaining lease of flat
-  *             You will need a valid HFE letter at all of the following stages:                            Before obtaining an Option to Purchase (OTP) from a flat seller                When you exercise the OTP                When you submit the resale application                        :             If the lease can cover the youngest core member†up to the age of 95 and above, the Loan-to-Value (LTV) limit will be 75%^ of the lower of the resale price and value.            Otherwise, the LTV limit will be pro-rated from 75%^. You may use the following online calculators to compute the allowable CPF usage and HDB housing loan:                            CPF usage                HDB housing loan for a†resale flat                        You can get the details of a flatís lease using the†HDB Map Services.            If you have submitted a resale application, you will be provided with a customised financial plan, which will include the applicable LTV limit at point of resale application (if you are taking an HDB housing loan), and the payments required at the various milestones of your flat purchase.            ^ For complete resale applications received by HDB on or after 20 August 2024.            
+  *             You will need a valid HFE letter at all of the following stages:                            Before obtaining an Option to Purchase (OTP) from a flat seller                When you exercise the OTP                When you submit the resale application                        :             If the lease can cover the youngest core member¬†up to the age of 95 and above, the Loan-to-Value (LTV) limit will be 75%^ of the lower of the resale price and value.            Otherwise, the LTV limit will be pro-rated from 75%^. You may use the following online calculators to compute the allowable CPF usage and HDB housing loan:                            CPF usage                HDB housing loan for a¬†resale flat                        You can get the details of a flat‚Äôs lease using the¬†HDB Map Services.            If you have submitted a resale application, you will be provided with a customised financial plan, which will include the applicable LTV limit at point of resale application (if you are taking an HDB housing loan), and the payments required at the various milestones of your flat purchase.            ^ For complete resale applications received by HDB on or after 20 August 2024.            
 * Valid HFE letter: Refinancing to housing loan from financial institution (FI)
   *             You will need a valid HFE letter at all of the following stages:                            Before obtaining an Option to Purchase (OTP) from a flat seller                When you exercise the OTP                When you submit the resale application                        : You may refinance the HDB housing loan for your flat with a housing loan from an FI.
 
@@ -690,7 +690,7 @@ If you are not eligible for a housing loan from HDB but need financing for your 
 Housing loan from financial institutions
 ----------------------------------------
 
-You may choose to finance your flat purchase with a [housing loan from the FIs](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions)†regulated by [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/). View and compare the [housing loan packages](https://homes.hdb.gov.sg/home/calculator/fi-loan-package) offered by the participating FIs on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
+You may choose to finance your flat purchase with a [housing loan from the FIs](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions)¬†regulated by [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/). View and compare the [housing loan packages](https://homes.hdb.gov.sg/home/calculator/fi-loan-package) offered by the participating FIs on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
 
 Check the key terms and considerations in taking up a housing loan from the FIs before deciding. You can use our [calculator](https://homes.hdb.gov.sg/home/calculator/budget) to obtain housing loan estimates from the FIs.
 
@@ -713,7 +713,7 @@ You may be eligible to receive a housing subsidy to help with the purchase of yo
 
 ](#CPFhousinggrants-3)
 
-Read our [eligibility conditions](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility)†to find out if you are eligible for any CPF housing grants, which are housing subsidies given by the Government to eligible Singapore Citizen buyers.
+Read our [eligibility conditions](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility)¬†to find out if you are eligible for any CPF housing grants, which are housing subsidies given by the Government to eligible Singapore Citizen buyers.
 
 The housing grants can be used for the [initial payment](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/acceptance-and-approval?anchor=legal-fees-initial-payment) and to reduce the required housing loan amount.
 
@@ -752,7 +752,7 @@ You and the flat sellers must use the [HDB-prescribed OTP](http://services2.hdb.
 
 Print only 1 copy of the OTP as each form has a unique serial number. You must state the serial number of the OTP when you submit a resale application to HDB.
 
-The OTP is a legally binding contract between you and the flat sellers. Read the [Important Notes of the OTP](https://www.hdb.gov.sg/-/media/doc/EAPG-CSC/OTP-Important-Notes-4-Sep-2024.ashx)†and the [Terms and Conditions of Resale](https://www.hdb.gov.sg/-/media/doc/EAPG-CSC/Resale-Terms--Conditions-9-May-2023-updated.ashx) carefully before entering into a contract.
+The OTP is a legally binding contract between you and the flat sellers. Read the [Important Notes of the OTP](https://www.hdb.gov.sg/-/media/doc/EAPG-CSC/OTP-Important-Notes-4-Sep-2024.ashx)¬†and the [Terms and Conditions of Resale](https://www.hdb.gov.sg/-/media/doc/EAPG-CSC/Resale-Terms--Conditions-9-May-2023-updated.ashx) carefully before entering into a contract.
 
 Deposit to sellers
 ------------------
@@ -789,7 +789,7 @@ You and the flat sellers must mutually agree on the resale price of the flat.
 
 ](#StepaNegotiateandagreeontheresaleprice-1)
 
-You may use the [resale flat prices e-service](https://services2.hdb.gov.sg/webapp/BB33RTIS/BB33PReslTrans.jsp) to check the transacted resale flat prices to help you make an informed decision on how much to pay for the flat. The figures are updated daily based on HDBís registration of the resale applications received.
+You may use the [resale flat prices e-service](https://services2.hdb.gov.sg/webapp/BB33RTIS/BB33PReslTrans.jsp) to check the transacted resale flat prices to help you make an informed decision on how much to pay for the flat. The figures are updated daily based on HDB‚Äôs registration of the resale applications received.
 
 
 
@@ -821,9 +821,9 @@ The flat sellers must fill in these sections in the OTP:
   * Sections: Clause 12: Number of days from the date of exercising the Option that you and the flat sellers have agreed to submit the resale application to HDB
 * Page: 8 (top half)
   * Sections:                             Option Date                Flat address                All flat sellers must sign on the OTP                A witness may sign on the OTP (seller's salesperson or any person, aged 21 years or above, and not involved in the resale transaction)                        
-* Page: 9†(optional)
+* Page: 9¬†(optional)
   * Sections: Inventory list of the flat
-* Page: 10†(optional)
+* Page: 10¬†(optional)
   * Sections: Authorisation for another person to receive the Acceptance of the flat buyers when they exercise the OTP
 
 
@@ -843,14 +843,14 @@ The OTP is valid for 21 calendar days from the date the OTP is granted.
 
 ](#StepaReviewpurchaseduringOptionPeriod-3)
 
-The Option Period is 21 calendar days (including Saturdays, Sundays, and Public Holidays). It is given to you by the flat sellers, from the date of granting the OTP (refer to Step 2).†
+The Option Period is 21 calendar days (including Saturdays, Sundays, and Public Holidays). It is given to you by the flat sellers, from the date of granting the OTP (refer to Step 2).¬†
 
 You should use the Option Period wisely and not rush into exercising the OTP. During this period, you must log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) to:
 
 
 
 * Confirm mode of financing: Request for Value of Flat
-  * Confirm†your mode of financing (i.e., cash, CPF savings, and/ or a housing loan) for your flat purchase in My Flat Dashboard.:             You must submit a†Request for Value for the flat if you are using your CPF savings and/ or taking up a housing loan to finance your flat purchase. You may submit the request via My Flat Dashboard†after the flat sellers have granted you the OTP.            Once you have†made the request, you can log in to My Flat Dashboard†to view the progress and outcome.            
+  * Confirm¬†your mode of financing (i.e., cash, CPF savings, and/ or a housing loan) for your flat purchase in My Flat Dashboard.:             You must submit a¬†Request for Value for the flat if you are using your CPF savings and/ or taking up a housing loan to finance your flat purchase. You may submit the request via My Flat Dashboard¬†after the flat sellers have granted you the OTP.            Once you have¬†made the request, you can log in to My Flat Dashboard¬†to view the progress and outcome.            
 
 
 [
@@ -875,7 +875,7 @@ If you are taking a housing loan from HDB, ensure that you have a valid [HDB Fla
 
 #### Housing loan from a financial institution (FI)
 
-If you are taking a housing loan from a FI, ensure that you have a valid Letter of Offer (LO). The date of issue of the LO must be on or before you exercise the OTP.†You may concurrently request an In-Principle Approval and LO from participating financial institutions when applying for the [HFE letter](https://services2.hdb.gov.sg/web/bp27/PrelimHFE/)^ on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
+If you are taking a housing loan from a FI, ensure that you have a valid Letter of Offer (LO). The date of issue of the LO must be on or before you exercise the OTP.¬†You may concurrently request an In-Principle Approval and LO from participating financial institutions when applying for the [HFE letter](https://services2.hdb.gov.sg/web/bp27/PrelimHFE/)^ on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard).
 
 #### Signing and returning the OTP
 
@@ -884,7 +884,7 @@ To exercise the Option, you must sign on the OTP and return it to the flat selle
 
 
 * Page: 8 (bottom half)
-  * Sections:                             You and all your co-buyers must sign on the ìACCEPTANCEî section                A witness may sign on the OTP (your salesperson or any person, aged 21 years or above, and not involved in the resale transaction)                        
+  * Sections:                             You and all your co-buyers must sign on the ‚ÄúACCEPTANCE‚Äù section                A witness may sign on the OTP (your salesperson or any person, aged 21 years or above, and not involved in the resale transaction)                        
 
 
 #### Option Exercise Fee
@@ -908,7 +908,7 @@ After you have exercised the OTP, you and the sellers must decide when to submit
 You and the flat sellers must both submit the respective portions of the resale application separately within both timeframes:
 
 *   Within the agreed number of days as stated on page 4 of the OTP, and
-*   Within 7 days of each otherís submission
+*   Within 7 days of each other‚Äôs submission
 
 A resale application is only complete when HDB has received both you and the flat sellers' respective portions of the resale application and the necessary supporting documents.
 
@@ -969,14 +969,14 @@ During this period, you must:
 *   Log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) to confirm your [mode of financing](https://www.hdb.gov.sg/residential/buying-a-flat/buying-procedure-for-resale-flats/plan-source-and-contract/mode-of-financing), and make a Request for Value
 *   After the outcome of the Request for Value is available, confirm your decision whether to buy the flat
 
-The Request for Value will determine the flatís value and form the basis for your CPF usage and/ or the reference for the housing loan amount from HDB or the financial institution (FI), unless otherwise advised by the FI.
+The Request for Value will determine the flat‚Äôs value and form the basis for your CPF usage and/ or the reference for the housing loan amount from HDB or the financial institution (FI), unless otherwise advised by the FI.
 
 If you are using cash only (i.e., no CPF usage and no housing loan) to pay for your flat purchase, you do not need to submit a Request for Value.
 
 Submit your Request for Value
 -----------------------------
 
-You must submit the Request for Value via [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard)†by the next working day after the Option Date, together with a scanned copy of Page 1 of the OTP. You have to pay a processing fee of $120 (including GST) to HDB.
+You must submit the Request for Value via [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard)¬†by the next working day after the Option Date, together with a scanned copy of Page 1 of the OTP. You have to pay a processing fee of $120 (including GST) to HDB.
 
 If you have engaged the services of a salesperson, your salesperson may make the Request for Value on your behalf via [e-Resale](https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain) or [Estate Agent Toolkit](https://services2.hdb.gov.sg/webapp/BB31AWEstateAgent/BB31SMain) (for agencies which are subscribers).
 
@@ -987,7 +987,7 @@ You will be informed, via email, once the outcome of your Request for Value is a
 ##### Important note:
 
 *   The outcome of the Request for Value is valid for 3 months, from the day it is made available in My Flat Dashboard. You and the flat sellers must submit the respective portions of the resale application\* during this 3-month period. Otherwise, you will have to submit a new Request for Value for the same transaction  
-    \* A resale application is considered complete only when HDB receives both buyersí and sellersí portions of resale application and the necessary supporting documents.
+    \* A resale application is considered complete only when HDB receives both buyers‚Äô and sellers‚Äô portions of resale application and the necessary supporting documents.
 *   You have to wait for the outcome of the Request for Value before you may exercise the OTP during the Option Period
 
 * * *
@@ -1017,7 +1017,7 @@ You will be informed, via email, once the outcome of your Request for Value is a
     ](https://www.hdb.gov.sg/residential/buying-a-flat/conditions-after-buying)
 
 # HDB | Resale Application
-A Singapore Government Agency Website  How to identify
+A Singapore Government Agency Website‚ÄÇ How to identify
 
 ![](https://d33wubrfki0l68.cloudfront.net/2ec2122b2010672b9cbb6efb5138048d8aff4a09/5d1ab/assets/img/government_building.svg)
 
@@ -1104,7 +1104,7 @@ After you have exercised the [Option to Purchase (OTP)](https://www.hdb.gov.sg/r
 
 Upon receiving the resale application and supporting documents, HDB will verify the information provided by you and the sellers. Both parties must ensure that they are eligible for the transaction.
 
-If the application and documents are in order, we will notify you and the sellers of HDBís acceptance of the application via SMS or email. Thereafter, it will take about 8 weeks to process the application and complete the transaction.†This is the earliest possible date to complete the transaction. If you wish to defer the completion, please discuss with your sellers and let us have a written confirmation (signed by both sellers and buyers) via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain).
+If the application and documents are in order, we will notify you and the sellers of HDB‚Äôs acceptance of the application via SMS or email. Thereafter, it will take about 8 weeks to process the application and complete the transaction.¬†This is the earliest possible date to complete the transaction. If you wish to defer the completion, please discuss with your sellers and let us have a written confirmation (signed by both sellers and buyers) via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain).
 
 [
 
@@ -1123,7 +1123,7 @@ Both parties must submit the respective portions of the resale application and a
   * Either you or the sellers may submit the respective portion of the resale application and the necessary documents first. Thereafter, the second party must submit their portion within 7 calendar days. If this is not done, the application will lapse and both parties have to restart the application process and pay the application fees.:             Under Clause 12 of the OTP, you and the sellers have agreed on the timeframe to submit the resale application to us.            This is a contractual term between you and the sellers. Any variation requires the mutual agreement of both parties            
 
 
-A resale application is complete only when HDB receives both buyersí and sellersí portions of resale application and the necessary supporting documents. Otherwise, the application will lapse and both parties have to restart the application process and pay the application fees. Application fees are non-refundable.
+A resale application is complete only when HDB receives both buyers‚Äô and sellers‚Äô portions of resale application and the necessary supporting documents. Otherwise, the application will lapse and both parties have to restart the application process and pay the application fees. Application fees are non-refundable.
 
 [
 
@@ -1138,24 +1138,24 @@ You must provide the following information:
 
 
 
-* Option to Purchase details: Buyersí and occupiersí particulars
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must verify and provide the details of all applicants and occupiers listed in the application and submit all the supporting documents (in PDF or JPG format). The list of documents required will be provided in My Flat Dashboard when you submit your resale application. Do note that the information provided should be the same to those given in your HDB Flat Eligibility (HFE) letter.            If you need to make any changes, e.g. addition/ removal of household member(s), change in status from an applicant to an occupier or vice versa, marital status, citizenship, ownership of private properties, etc., you must first cancel your HFE letter. After cancellation, apply for a fresh HFE letter by logging in to the HDB Flat Portal, Complete a Preliminary HFE Check (Step 1 of Buying Process) based on your latest circumstances, followed by Submit HFE Letter (Step 2 of Buying Process) to submit your application and required documents.            If you need time to prepare the necessary documents, you may save your application as a draft, and retrieve your application for submission once you have prepared the necessary documents. The draft application will be available for 2 weeks.            It is your flat sellersí and your responsibility to ensure that all the supporting documents are submitted together with the respective portions of the resale application.† Incomplete documents may lead to your application being rejected, and you and the flat sellers will have to restart the application process and pay the application fees again.            You may be required to submit the following documents (if applicable):                            Identity Card^ or Passport (for non-citizens)                Marriage certificate                Child's birth certificate^                Late spouse's death certificate^                Deed of Separation, Divorce Certificate, Decree Nisi/ Interim Judgment, Certificate Making Decree Absolute/ Certificate Making Interim Judgment Absolute                Power of Attorney                Lasting Power of Attorney                        
+* Option to Purchase details: Buyers‚Äô and occupiers‚Äô particulars
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must verify and provide the details of all applicants and occupiers listed in the application and submit all the supporting documents (in PDF or JPG format). The list of documents required will be provided in My Flat Dashboard when you submit your resale application. Do note that the information provided should be the same to those given in your HDB Flat Eligibility (HFE) letter.            If you need to make any changes, e.g. addition/ removal of household member(s), change in status from an applicant to an occupier or vice versa, marital status, citizenship, ownership of private properties, etc., you must first cancel your HFE letter. After cancellation, apply for a fresh HFE letter by logging in to the HDB Flat Portal, Complete a Preliminary HFE Check (Step 1 of Buying Process) based on your latest circumstances, followed by Submit HFE Letter (Step 2 of Buying Process) to submit your application and required documents.            If you need time to prepare the necessary documents, you may save your application as a draft, and retrieve your application for submission once you have prepared the necessary documents. The draft application will be available for 2 weeks.            It is your flat sellers‚Äô and your responsibility to ensure that all the supporting documents are submitted together with the respective portions of the resale application.¬† Incomplete documents may lead to your application being rejected, and you and the flat sellers will have to restart the application process and pay the application fees again.            You may be required to submit the following documents (if applicable):                            Identity Card^ or Passport (for non-citizens)                Marriage certificate                Child's birth certificate^                Late spouse's death certificate^                Deed of Separation, Divorce Certificate, Decree Nisi/ Interim Judgment, Certificate Making Decree Absolute/ Certificate Making Interim Judgment Absolute                Power of Attorney                Lasting Power of Attorney                        
 * Option to Purchase details: Housing loan
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must state whether you are taking a housing loan from HDB†or financial institution (FI).            If you are taking an HDB housing loan, you must provide the reference number of the approved HDB Flat Eligibility (HFE) letter.            If you are taking a housing loan from a FI, you must submit a Letter of Offer from the FI.            
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must state whether you are taking a housing loan from HDB¬†or financial institution (FI).            If you are taking an HDB housing loan, you must provide the reference number of the approved HDB Flat Eligibility (HFE) letter.            If you are taking a housing loan from a FI, you must submit a Letter of Offer from the FI.            
 * Option to Purchase details:             Application for CPF housing grants            Or            Proximity Housing Grant            
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must state in the resale application if you are applying for any of the following grants:                            CPF Housing Grant (Families or Singles)                Enhanced CPF Housing Grant (EHG)†(Families or Singles)                Step-Up CPF Housing Grant                Proximity Housing Grant (PHG) (Families†or†Singles)                        
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must state in the resale application if you are applying for any of the following grants:                            CPF Housing Grant (Families or Singles)                Enhanced CPF Housing Grant (EHG)¬†(Families or Singles)                Step-Up CPF Housing Grant                Proximity Housing Grant (PHG) (Families¬†or¬†Singles)                        
 * Option to Purchase details: Manner of Holding of flat after the purchase
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             If you are buying the resale flat jointly with others (up to a maximum of 4 owners), you must state the manner of holding, i.e., how you and the other co-owners intend to hold the flat. Read more about manner of holding.            
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             If you are buying the resale flat jointly with others (up to a maximum of 4 owners), you must state the manner of holding, i.e., how you and the other co-owners intend to hold the flat. Read more about manner of holding.            
 * Option to Purchase details: Declarations regarding your purchase
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             Ownership of property            You and all the people listed in the application must declare any interest in any private property when submitting the resale application.            The declaration includes private residential, commercial (including market/ hawker stalls), and industrial properties, both in Singapore and overseas.            Read Flat and Grant Eligibility†to understand the eligibility conditions for buying a resale flat, including non-ownership of private residential property.†            Undischarged bankrupt            If you are an undischarged bankrupt, prior consent from the Official Assignee (OA) or the private trustee may be required when buying a flat. You must submit a Letter of Consent from the OA, if applicable. Read more in bankruptcy.            
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             Ownership of property            You and all the people listed in the application must declare any interest in any private property when submitting the resale application.            The declaration includes private residential, commercial (including market/ hawker stalls), and industrial properties, both in Singapore and overseas.            Read Flat and Grant Eligibility¬†to understand the eligibility conditions for buying a resale flat, including non-ownership of private residential property.¬†            Undischarged bankrupt            If you are an undischarged bankrupt, prior consent from the Official Assignee (OA) or the private trustee may be required when buying a flat. You must submit a Letter of Consent from the OA, if applicable. Read more in bankruptcy.            
 * Option to Purchase details: Engaging solicitors            
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must state in your resale application whether you are appointing HDB as your solicitors or engaging private solicitors to act for you in the conveyancing of the resale transaction.            If you wish to appoint HDB, you may get an estimate of the cost using our Legal Fees Enquiry e-Service. Find out more about payment of legal fees.            
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             You must state in your resale application whether you are appointing HDB as your solicitors or engaging private solicitors to act for you in the conveyancing of the resale transaction.            If you wish to appoint HDB, you may get an estimate of the cost using our Legal Fees Enquiry e-Service. Find out more about payment of legal fees.            
 * Option to Purchase details: Application for Enhanced Contra Facility
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             The Enhanced Contra Facility allows you to sell your existing HDB flat and use the sale proceeds (comprising CPF refund and cash) to buy a resale HDB flat.            If you intend to apply for the Enhanced Contra Facility, you must state so in your application form. Read more about Enhanced Contra Facility.            
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             The Enhanced Contra Facility allows you to sell your existing HDB flat and use the sale proceeds (comprising CPF refund and cash) to buy a resale HDB flat.            If you intend to apply for the Enhanced Contra Facility, you must state so in your application form. Read more about Enhanced Contra Facility.            
 * Option to Purchase details: Appointing a Power of Attorney
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             If you are unable to sign the Option to Purchase or the legal documents personally when buying a resale flat, you must appoint a Power of Attorney.            Read more about appointing a Power of Attorney.            
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             If you are unable to sign the Option to Purchase or the legal documents personally when buying a resale flat, you must appoint a Power of Attorney.            Read more about appointing a Power of Attorney.            
 * Option to Purchase details: Request for Temporary Extension of Stay
-  *                             Address of the flat you are buying                Sellersí particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             The sellers must move out of the flat when the resale transaction is completed. Sellers may arrange with you to extend their stay temporarily in the flat, for up to 3 months from the completion of the resale transaction.            Read more about temporary extension of stay.            
+  *                             Address of the flat you are buying                Sellers‚Äô particulars (such as name and NRIC)                OTP Serial Number                Option Date                Purchase Price                Option Fee                Option Exercise Fee                Acceptance Date                        :             The sellers must move out of the flat when the resale transaction is completed. Sellers may arrange with you to extend their stay temporarily in the flat, for up to 3 months from the completion of the resale transaction.            Read more about temporary extension of stay.            
 
 
 ^ Either physical or digital copy of the Identity Card, birth certificate or death certificate
@@ -1171,12 +1171,12 @@ You and the sellers will each pay an administrative fee when submitting the resp
 
 
 
-* †: 1- and 2-room
+* ¬†: 1- and 2-room
   * Flat Type: 3-room and bigger
-* †:             Resale Application Fee*            (Payable by buyers and sellers)            
+* ¬†:             Resale Application Fee*            (Payable by buyers and sellers)            
   * Flat Type: $40
   * $80
-* †: Mode of Payment
+* ¬†: Mode of Payment
   * Flat Type:             For My Flat Dashboard:                            Credit card (Visa or MasterCard)                NETS (using AXS)                                PayNow (for supported banks)                        
 
 
@@ -1193,9 +1193,9 @@ You and the sellers must submit your respective portion of the resale applicatio
 
 Upon receiving a complete resale application and the full set of the supporting documents from you and the sellers, we will verify the eligibility of both parties, and review the supporting documents.
 
-If the application is in order, we will notify both parties of HDBís acceptance within 28 working days, via SMS and emails. You may log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) to view the status of your resale application.
+If the application is in order, we will notify both parties of HDB‚Äôs acceptance within 28 working days, via SMS and emails. You may log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard) to view the status of your resale application.
 
-The date of HDBís acceptance of the resale application marks the beginning of the 8 weeks processing time. The resale completion date stated in HDB's acceptance letter is the earliest possible date to complete the transaction. You and the flat sellers may mutually agree on a later date and submit the request via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain).
+The date of HDB‚Äôs acceptance of the resale application marks the beginning of the 8 weeks processing time. The resale completion date stated in HDB's acceptance letter is the earliest possible date to complete the transaction. You and the flat sellers may mutually agree on a later date and submit the request via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain).
 
 During these 8 weeks, you have to endorse documents which HDB has prepared for you through My Flat Dashboard and pay the necessary fees online. An approval for resale will be granted once the documents are endorsed and the payments made. We will notify you and the sellers of the resale completion appointment once it is scheduled. If you have submitted a resale application with a valid HFE letter that is expiring before the resale completion, you may continue with your resale application without the need to apply for a fresh HFE letter.
 
@@ -1214,7 +1214,7 @@ Your application will be cancelled if:
 
 *   You or the sellers have decided to withdraw the application by giving notice in writing to us
 *   You do not have sufficient funds to complete the flat purchase
-*   The information given in the resale application is incorrect or either party has suppressed any information required (in addition to any other actions that HDB may take or penalties that HDB may impose)†
+*   The information given in the resale application is incorrect or either party has suppressed any information required (in addition to any other actions that HDB may take or penalties that HDB may impose)¬†
 *   You or the sellers are not eligible to retain the application under HDB's prevailing policies
 *   The transaction is aborted for any reasons whatsoever
 
@@ -1255,7 +1255,7 @@ You and all the people listed in the application must declare any interest in an
 
 The declaration includes private residential, commercial (including market/ hawker stalls), and industrial properties, both in Singapore and overseas.
 
-Read [Flat and Grant Eligibility](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility)†to understand the eligibility conditions for buying a resale flat, including non-ownership of private residential property.
+Read [Flat and Grant Eligibility](https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility)¬†to understand the eligibility conditions for buying a resale flat, including non-ownership of private residential property.
 
 [
 
@@ -1275,7 +1275,7 @@ As a flat buyer, you must sign documents personally, such as:
 *   Declarations forms
 *   Legal documents
 
-If you are unable to attend to these matters personally, you have to approach a solicitor to prepare a POA to act on your behalf in the flat purchase.†
+If you are unable to attend to these matters personally, you have to approach a solicitor to prepare a POA to act on your behalf in the flat purchase.¬†
 
 What must you and your private solicitor do?
 --------------------------------------------
@@ -1285,7 +1285,7 @@ What must you and your private solicitor do?
 * Steps: Step 1: Preparing the POA
   * Process: Engage a solicitor to prepare the POA.
 * Steps: Step 2: Signing the POA
-  * Process:             The POA has to be signed by you in the presence of your solicitor. If you are already overseas, you must sign the POA in the presence of one of the following parties:                            Notary Public*                Diplomatic or consular official from a Singapore Overseas Mission. Please visit the Ministry of Foreign Affairs (MFA)í website to find the nearest Singapore Overseas Mission                        * If you are using CPF Ordinary Account (OA) savings to buy a flat, the POA must be witnessed and sealed/ stamped by an official from a Singapore Overseas Mission instead. You may visit the MFA's website for more details on the nearest Singapore Overseas Mission.            
+  * Process:             The POA has to be signed by you in the presence of your solicitor. If you are already overseas, you must sign the POA in the presence of one of the following parties:                            Notary Public*                Diplomatic or consular official from a Singapore Overseas Mission. Please visit the Ministry of Foreign Affairs (MFA)‚Äô website to find the nearest Singapore Overseas Mission                        * If you are using CPF Ordinary Account (OA) savings to buy a flat, the POA must be witnessed and sealed/ stamped by an official from a Singapore Overseas Mission instead. You may visit the MFA's website for more details on the nearest Singapore Overseas Mission.            
 * Steps: Step 3: Registering the POA
   * Process: After your POA has been signed, your solicitor will register the POA with the High Court Registry.
 * Steps: Step 4: Submitting required documents to HDB
@@ -1346,7 +1346,7 @@ You do not need to seek consent from the OA or private trustee if you are listed
 
 HDB | Acceptance and Approval
 
-A Singapore Government Agency Website  How to identify
+A Singapore Government Agency Website‚ÄÇ How to identify
 
 ![](https://d33wubrfki0l68.cloudfront.net/2ec2122b2010672b9cbb6efb5138048d8aff4a09/5d1ab/assets/img/government_building.svg)
 
@@ -1677,7 +1677,7 @@ Residential
 Acceptance and Approval
 =======================
 
-After HDB receives the complete resale application and supporting documents from you and the sellers, we will verify both partiesí eligibility and review the documents. If the application and documents are in order, we will notify you and the sellers of HDBís acceptance of the application via SMS or email.
+After HDB receives the complete resale application and supporting documents from you and the sellers, we will verify both parties‚Äô eligibility and review the documents. If the application and documents are in order, we will notify you and the sellers of HDB‚Äôs acceptance of the application via SMS or email.
 
 hr { height: 1px; border-top: 1px solid #ccc; margin: 1em 0; padding: 0 } .accordion-navigation .flickr-embed-frame { height: 453px !important; } @media only screen and (max-width: 570px) { .speak-img { float: none !important; } .accordion-navigation .flickr-embed-frame { height: 267px !important; width: 356px !important; } .accordion-navigation .flickr-embed-frame .flickr-embed-photo.show-navigation, .accordion-navigation .flickr-embed-frame .flickr-embed-photo.show-navigation .slide img { height: 267px !important; width: 356px !important; } }
 
@@ -1692,13 +1692,13 @@ Arrow down icon](#Acknowledgeandendorseresaledocuments-1)
 
 We will prepare the necessary documents for you and the sellers to endorse, which will be ready about 3 weeks after the application have been accepted.
 
-Once the documents are ready, they will be posted on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard), and we will notify you and the sellers via SMS to log in to My Flat Dashboard†to endorse the documents.
+Once the documents are ready, they will be posted on [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard), and we will notify you and the sellers via SMS to log in to My Flat Dashboard¬†to endorse the documents.
 
 If you or the sellers do not endorse the documents within the given timeframe, the resale application may be cancelled.
 
 If you appoint HDB as the solicitors for the purchase of the flat, the documents to endorse include:
 
-**Buyerís financial plan**
+**Buyer‚Äôs financial plan**
 
 A proposed financial plan based on what you have stated in your resale application.
 
@@ -1710,9 +1710,9 @@ The CPF withdrawal based on the endorsed financial plan.
 
 Please ensure that all the buyers have sufficient savings in the CPF Ordinary Accounts for the payment. If there are insufficient funds in the CPF accounts at the point of the deduction, you have to pay any shortfall in cash.
 
-**Health declaration for CPF Boardís Home Protection Scheme**
+**Health declaration for CPF Board‚Äôs Home Protection Scheme**
 
-If you are taking an HDB housing loan and/ or using your CPF savings to pay for the flat purchase, you must fill up a Health Declaration form to declare your share of the insurance coverage and health status, for the CPF Boardís Home Protection Scheme (HPS).
+If you are taking an HDB housing loan and/ or using your CPF savings to pay for the flat purchase, you must fill up a Health Declaration form to declare your share of the insurance coverage and health status, for the CPF Board‚Äôs Home Protection Scheme (HPS).
 
 **Resale documents**
 
@@ -1765,7 +1765,7 @@ To HDB
 
 **For mortgage if the buyers are taking an HDB housing loan**
 
-(Based on loan amount and subject to a minimum mortgagee fee of $21.80†(inclusive of GST) and a minimum mortgagorís fee of $21.80 (inclusive of GST); fee is rounded up to the nearest dollar)
+(Based on loan amount and subject to a minimum mortgagee fee of $21.80¬†(inclusive of GST) and a minimum mortgagor‚Äôs fee of $21.80 (inclusive of GST); fee is rounded up to the nearest dollar)
 
 *   First $30,000: 13.50 cents per $100 or part thereof
 *   Next $30,000: 10.80 cents per $100 or part thereof
@@ -1783,8 +1783,8 @@ To Singapore Land Authority (SLA)
 *   Title Search Fee: $32
 *   Registration fee for Transfer: $38.30
 *   Registration fee for Mortgage (if the buyers are taking an HDB housing loan): $38.30
-*   Buyerís caveat: $64.45
-*   Mortgageeís caveat (if the buyers are taking an HDB housing loan): $64.45
+*   Buyer‚Äôs caveat: $64.45
+*   Mortgagee‚Äôs caveat (if the buyers are taking an HDB housing loan): $64.45
 
 **Miscellaneous fees**
 
@@ -1821,8 +1821,8 @@ To SLA
 *   Title Search Fee: $32
 *   Registration fee for Transfer: $38.30
 *   Registration fee for Mortgage (if the buyers are taking an HDB housing loan): $38.30
-*   Buyerís caveat: $64.45
-*   Mortgageeís caveat (if the buyers are taking an HDB housing loan): $64.45
+*   Buyer‚Äôs caveat: $64.45
+*   Mortgagee‚Äôs caveat (if the buyers are taking an HDB housing loan): $64.45
 
 **Miscellaneous fees**
 
@@ -1842,7 +1842,7 @@ Credit Card
 
 Visa or Mastercard
 
-NETS†(using AXS)
+NETS¬†(using AXS)
 
 For payments less than $9,999
 
@@ -1859,7 +1859,7 @@ Only applicable for legal fees
 Stamp duty
 ----------
 
-The stamp duty is payable by CPF savings. If you wish to use cash instead of your CPF savings, please contact us using our†[e-Feedback form](https://services2.hdb.gov.sg/webapp/BF12AWFeedback/BF12SFrontController?service=ServiceFeedback&operation=createFeedback) with your request after your resale application is accepted. If you do not have enough CPF savings to pay the stamp duty in full, or you are not taking any housing loan but engaging HDB to act for you in the purchase, you must pay the stamp fees during your resale completion appointment by cashier's order and/ or NETS.
+The stamp duty is payable by CPF savings. If you wish to use cash instead of your CPF savings, please contact us using our¬†[e-Feedback form](https://services2.hdb.gov.sg/webapp/BF12AWFeedback/BF12SFrontController?service=ServiceFeedback&operation=createFeedback) with your request after your resale application is accepted. If you do not have enough CPF savings to pay the stamp duty in full, or you are not taking any housing loan but engaging HDB to act for you in the purchase, you must pay the stamp fees during your resale completion appointment by cashier's order and/ or NETS.
 
 **Stamp duty**
 
@@ -1869,7 +1869,7 @@ You can also use the [Stamp Duty Calculator](https://mytax.iras.gov.sg/login/sel
 
 **For Option to Purchase**
 
-(Based on selling price or market valuation, whichever is higher)†
+(Based on selling price or market valuation, whichever is higher)¬†
 
 *   First $180,000: 1%
 *   Next $180,000: 2%
@@ -1884,14 +1884,14 @@ You can also use the [Stamp Duty Calculator](https://mytax.iras.gov.sg/login/sel
 
 **Note:** The stamp duty will be collected by the solicitor who is acting for purchaser or mortgagor.
 
-**Note:** Singapore Permanent Resident (SPR) households buying their first HDB resale flat must pay the Additional Buyer's Stamp Duty (ABSD), on top of the Buyer's Stamp Duty, during your resale completion appointment. For more information on the ABSD, please visit [IRASís website](https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)).
+**Note:** Singapore Permanent Resident (SPR) households buying their first HDB resale flat must pay the Additional Buyer's Stamp Duty (ABSD), on top of the Buyer's Stamp Duty, during your resale completion appointment. For more information on the ABSD, please visit [IRAS‚Äôs website](https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)).
 
 Initial payment
 ---------------
 
-You must make the initial payment of the purchase price after you have endorsed the resale documents, by the deadline given by HDB, if you are taking a housing loan from HDB or financial institution (FI). The amount is based on the lower of the resale price or value, as well as the type of housing loan you may be taking. The balance purchase price must be paid on or before the†[resale completion](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion).
+You must make the initial payment of the purchase price after you have endorsed the resale documents, by the deadline given by HDB, if you are taking a housing loan from HDB or financial institution (FI). The amount is based on the lower of the resale price or value, as well as the type of housing loan you may be taking. The balance purchase price must be paid on or before the¬†[resale completion](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion).
 
-For those who are taking a housing loan from an FI, the private solicitors acting in the purchase will arrange for you to make the initial payment.†
+For those who are taking a housing loan from an FI, the private solicitors acting in the purchase will arrange for you to make the initial payment.¬†
 
 Housing Loan from HDB
 
@@ -1927,7 +1927,7 @@ Please check with your solicitors for the payment schedule.
 
 ^ For complete resale applications received before 20 August 2024, the LTV limit for HDB housing loan is at 80%, and the initial payment is 20% of the lower of resale price or value of flat.  
   
-If you are not taking any housing loan but engaging HDB to act for you in the purchase, you do not need to make initial payment to HDB. However, you need to pay the applicable legal fees, such as the legal fees to HDB, Title Search fee and Buyerís caveat after endorsing the resale documents. You must pay the full purchase price by resale completion, which includes cash on completion and/ or CPF Ordinary Account savings (including CPF housing grants, if eligible) before your resale completion appointment.
+If you are not taking any housing loan but engaging HDB to act for you in the purchase, you do not need to make initial payment to HDB. However, you need to pay the applicable legal fees, such as the legal fees to HDB, Title Search fee and Buyer‚Äôs caveat after endorsing the resale documents. You must pay the full purchase price by resale completion, which includes cash on completion and/ or CPF Ordinary Account savings (including CPF housing grants, if eligible) before your resale completion appointment.
 
 [
 
@@ -1951,11 +1951,11 @@ We will notify you and the sellers via SMS once the appointment is scheduled.
 
 Arrow down icon](#Resalecompletion-4)
 
-You may log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard)†to view the completion letter, which provides information on what you need to prepare for the appointment, such as payment of the balance purchase price and any outstanding fees as well as documents required for the appointment.
+You may log in to [My Flat Dashboard](https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard)¬†to view the completion letter, which provides information on what you need to prepare for the appointment, such as payment of the balance purchase price and any outstanding fees as well as documents required for the appointment.
 
 If you have appointed HDB as solicitors for the purchase of the flat, you must attend the resale completion appointment in person at the HDB Hub.
 
-Find out what you need to prepare before the [resale completion](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion)†appointment.
+Find out what you need to prepare before the [resale completion](/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-completion)¬†appointment.
 
 h5.next\_steps{ font-size:20px; } ul.list-section{ display:flex; margin: 0 -10px; padding: 0; flex-wrap: wrap; } ul.list-section li{ float:left; width:25%; list-style: none; padding: 10px; } ul.list-section li p{ font-size:14px; } ul.list-section a, ul.list-section a:hover, ul.list-section a:focus{ color:#595959; } @media only screen and (max-width: 64.063em) { ul.list-section li{ width:50%; } } @media only screen and (max-width: 40.063em) { ul.list-section li{ width:100%; } }
 
@@ -2050,7 +2050,7 @@ Housing & Development Board
 
 [Report Vulnerability](https://www.tech.gov.sg/report_vulnerability) [Privacy Statement](/cs/infoweb/privacy-statement) [Terms of Use](/cs/infoweb/terms-of-use) [Sitemap](/cs/infoweb/sitemap) [Site Requirements](/cs/infoweb/site-requirements)
 
-© 2024, Government of Singapore
+¬© 2024, Government of Singapore
 
 Last Updated 19 September 2024
 
@@ -2086,8 +2086,8 @@ For resale transactions with ECF, there are 3 parties involved. You can refer to
 
 Mr C is selling his flat (Flat A) and buying a resale flat (Flat B) at the same time. He is applying for the ECF and is therefore the contra party. He needs to submit 2 sets of resale applications:
 
-1.  The sellerís portion of the resale application to sell Flat A; and
-2.  The buyerís portion of the resale application to buy Flat B
+1.  The seller‚Äôs portion of the resale application to sell Flat A; and
+2.  The buyer‚Äôs portion of the resale application to buy Flat B
 
 The 2 resale applications will be submitted separately. In both applications, only Mr C is required to state that he is applying for the ECF, and to provide the addresses of the flats that he is selling and buying, in the respective resale application, as illustrated below.
 
@@ -2104,7 +2104,7 @@ Please note the terms and conditions for the ECF, which include important inform
 
 ](#ECFtermsandconditions-2)
 
-The†[terms and conditions for the ECF](https://www.hdb.gov.sg/-/media/doc/EAPG-CSC/ECF-TC.ashx) (PDF, 444KB) are in addition to HDB's Terms and Conditions of Resale/ Purchase of an HDB resale flat.
+The¬†[terms and conditions for the ECF](https://www.hdb.gov.sg/-/media/doc/EAPG-CSC/ECF-TC.ashx) (PDF, 444KB) are in addition to HDB's Terms and Conditions of Resale/ Purchase of an HDB resale flat.
 
 * * *
 
@@ -2133,7 +2133,7 @@ Find out what you need to prepare before you attend the resale completion appoin
 Confirmation of resale completion appointment
 ---------------------------------------------
 
-The resale completion is about 8 weeks after HDBís acceptance of the resale application.
+The resale completion is about 8 weeks after HDB‚Äôs acceptance of the resale application.
 
 ](#Confirmationofresalecompletionappointment-1)
 
@@ -2141,7 +2141,7 @@ We will notify you via SMS on the specific date and time of your resale completi
 
 If you have appointed HDB as the solicitors for the purchase of the flat, you have to attend the appointment in person at the HDB Resale Office, HDB Hub.
 
-If you have appointed private solicitors, your solicitorsí representative may attend the appointment on your behalf. You need to confirm with your solicitors on the arrangement.
+If you have appointed private solicitors, your solicitors‚Äô representative may attend the appointment on your behalf. You need to confirm with your solicitors on the arrangement.
 
 #### Time of appointment
 
@@ -2157,7 +2157,7 @@ If you have appointed private solicitors, your solicitorsí representative may at
 
 The resale completion appointment date stated in the application acceptance email is the earliest possible date to complete the transaction. HDB is unable to accede to any request to bring forward the completion date.
 
-If you would like to defer the resale completion, please submit a written confirmation signed by both the buyers and sellers, agreeing to the new date, via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain) within a week from the date of HDBís acceptance letter.
+If you would like to defer the resale completion, please submit a written confirmation signed by both the buyers and sellers, agreeing to the new date, via [MyRequest@HDB](https://services2.hdb.gov.sg/webapp/BE15AWMyRequest/BE15PMain) within a week from the date of HDB‚Äôs acceptance letter.
 
 #### If you are unable to attend the resale completion appointment
 
@@ -2183,9 +2183,9 @@ If you are taking a housing loan from HDB, you must buy fire insurance policy fr
 
 ](#Buyfireinsurance-3)
 
-The†[HDB fire insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance)†is compulsory if you are taking a housing loan from HDB. It covers building structures, fixtures, and fittings provided by HDB. It does not include home contents such as furniture, renovations, and personal belongings.
+The¬†[HDB fire insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance)¬†is compulsory if you are taking a housing loan from HDB. It covers building structures, fixtures, and fittings provided by HDB. It does not include home contents such as furniture, renovations, and personal belongings.
 
-During your resale completion appointment, you must produce a digital or hard copy of a valid Certificate of HDB Fire Insurance on the flat issued by our appointed insurer, Etiqa Insurance Pte Ltd (Etiqa). For more details about the HDB fire insurance, you may call Etiqaís enquiry line at 6887-8777, or visit†[Etiqaís website](http://www.etiqa.com.sg/fire-insurance).
+During your resale completion appointment, you must produce a digital or hard copy of a valid Certificate of HDB Fire Insurance on the flat issued by our appointed insurer, Etiqa Insurance Pte Ltd (Etiqa). For more details about the HDB fire insurance, you may call Etiqa‚Äôs enquiry line at 6887-8777, or visit¬†[Etiqa‚Äôs website](http://www.etiqa.com.sg/fire-insurance).
 
 If the sellers have a valid HDB fire insurance for the flat, you need not buy another fire insurance. However, you will need to renew the fire insurance policy when the existing policy expires.
 
@@ -2206,9 +2206,9 @@ The balance purchase price that is not covered by CPF withdrawal and housing loa
 
 
 
-* Payment Modes: Cashierís Order
+* Payment Modes: Cashier‚Äôs Order
   * Details: Payable to HDB
-* Payment Modes:             NETS (using AXS)            For payments†less than $9,999            
+* Payment Modes:             NETS (using AXS)            For payments¬†less than $9,999            
   * Details: Please ensure that your NETS daily withdrawal limit is sufficient to make the payment.
 
 
@@ -2226,11 +2226,11 @@ You must bring the documents stated in the appointment letter for the resale com
 The documents required include:
 
 *   Identity cards of all buyers
-*   Spouseís passport and relevant visit pass/ work permit if the spouse is not a Singapore Citizen nor Singapore Permanent Resident
+*   Spouse‚Äôs passport and relevant visit pass/ work permit if the spouse is not a Singapore Citizen nor Singapore Permanent Resident
 *   Payment receipts and/ or Cashier's Order
 *   Certificate of Insurance (for fire insurance, if applicable)
 
-FiancÈ and fiancÈe couples have to submit a copy of their marriage certificate via our [e-Feedback form](https://services2.hdb.gov.sg/webapp/BF12AWFeedback/BF12SFrontController?service=ServiceFeedback&operation=createFeedback) within 3 months from the resale completion, if the marriage was registered overseas.
+Fianc√© and fianc√©e couples have to submit a copy of their marriage certificate via our [e-Feedback form](https://services2.hdb.gov.sg/webapp/BF12AWFeedback/BF12SFrontController?service=ServiceFeedback&operation=createFeedback) within 3 months from the resale completion, if the marriage was registered overseas.
 
 [
 
@@ -2248,7 +2248,7 @@ During the resale completion appointment, you will:
 *   Pay the apportioned property tax to the sellers
 *   State how you will pay the first month service and conservancy charges
 
-Upon the resale completion, you will become the flat owner and be liable for the†[conditions of ownership](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/conditions-after-buying)†and payments, such as the housing loan repayment, monthly service and conservancy charges, annual property tax, etc. For matters regarding the ownership of your flat, you may approach your†[HDB Branch](https://www.hdb.gov.sg/cs/infoweb/contact-us).
+Upon the resale completion, you will become the flat owner and be liable for the¬†[conditions of ownership](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/conditions-after-buying)¬†and payments, such as the housing loan repayment, monthly service and conservancy charges, annual property tax, etc. For matters regarding the ownership of your flat, you may approach your¬†[HDB Branch](https://www.hdb.gov.sg/cs/infoweb/contact-us).
 
 * * *
 
@@ -2266,7 +2266,7 @@ TERMS AND CONDITIONS OF SALE AND PURCHASE
 OF AN HDB RESALE FLAT
 APPLICABLE TO BOTH SELLER AND BUYER
 1 HDB RESALE PROCESS
-1.1 The sale and purchase of an HDB flat (ìthe flatî) in the resale market shall be carried out according
+1.1 The sale and purchase of an HDB flat (‚Äúthe flat‚Äù) in the resale market shall be carried out according
 to the procedures and processes that HDB may determine from time to time.
 
 1.2 The seller must register an Intent to Sell and the buyer an Intent to Buy in the HDB Resale Portal
@@ -2290,21 +2290,21 @@ to process the Option to Purchase, Request for Value and resale application.
 2 OPTION TO PURCHASE
 
 2 .1 The seller and buyer must use the HDB prescribed Option to Purchase as the form of contract for
-the sale and purchase of the flat in the resale market (ìthe resaleî). The seller and buyer are not
+the sale and purchase of the flat in the resale market (‚Äúthe resale‚Äù). The seller and buyer are not
 allowed to enter into any other agreement as it is null and void pursuant to the Housing &
 Development Act.
 
 2 .2 No amendments may be made to the prescribed Option to Purchase form. Amendments include
 (but are not limited to) deletions, insertions or altering any provision in the prescribed Option to
 Purchase. The seller and buyer must comply with all the procedures and requirements set out in
-the ìImportant Notes on Option to Purchaseî as well as these Terms and Conditions.
+the ‚ÄúImportant Notes on Option to Purchase‚Äù as well as these Terms and Conditions.
 
 3 The prescribed Option Fee, Deposit and Option Period are as follows:
 Option Fee - An amount not exceeding $1,
 Deposit - An amount not exceeding $5,000 (Option Fee + Option Exercise Fee = Deposit)
 Option Period - 21 calendar days (including Sat/Sun & public holidays) after the Option Date.
 The Option expiry time is standardised at 4pm.
-4 The Option Fee and Option Exercise Fee will form the ìDepositî (an agreed amount of up to
+4 The Option Fee and Option Exercise Fee will form the ‚ÄúDeposit‚Äù (an agreed amount of up to
 $5,000) for the purchase. Neither the Option Fee nor the Option Exercise Fee can be $0. This is
 to ensure that there is a valid Option or contract.
 HOUSING &
@@ -2344,10 +2344,10 @@ application.
 4 REQUEST FOR VALUE
 
 4 .1 The buyer who is financing the purchase of the flat with CPF savings or a housing loan from HDB
-or bank/financial institution must submit a request to HDB (ìRequest for Valueî) to determine the
+or bank/financial institution must submit a request to HDB (‚ÄúRequest for Value‚Äù) to determine the
 value of the flat which forms the basis for his CPF usage and/or the reference for a housing loan
 from HDB or bank/financial institution, unless otherwise advised by a bank/financial institution
-(ìvalue of the flatî).
+(‚Äúvalue of the flat‚Äù).
 
 4 .2 Only the buyer who has been granted an Option to Purchase by the seller of the flat shall submit
 a Request for Value.
@@ -2358,17 +2358,17 @@ by the seller of the flat.
 
 4 .4 HDB has the sole discretion to decide whether a valuation of the flat is required to confirm the
 value of the flat. If HDB requires a valuation of the flat, HDB will assign any of the private valuation
-firms on HDBís Panel of Valuers to conduct the valuation.
+firms on HDB‚Äôs Panel of Valuers to conduct the valuation.
 
-4.5 The buyer by submitting the Request for Value agrees to accept HDBís decision whether a
-valuation of the flat is required and the valuation (if any) conducted by HDBís assigned valuer.
+4.5 The buyer by submitting the Request for Value agrees to accept HDB‚Äôs decision whether a
+valuation of the flat is required and the valuation (if any) conducted by HDB‚Äôs assigned valuer.
 The buyer shall not specify any valuer to be assigned by HDB.
 
 4.6 In granting the Option to Purchase, the seller agrees to the valuation of the flat, if required by HDB.
-He must, within three (3) working days after the day of HDBís notification of the assigned valuer,
+He must, within three (3) working days after the day of HDB‚Äôs notification of the assigned valuer,
 allow the assigned valuer to enter the flat at any time in the day to inspect the flat for the valuation.
 
-7 HDB's acceptance of the buyerís Request for Value does not constitute an approval for the resale
+7 HDB's acceptance of the buyer‚Äôs Request for Value does not constitute an approval for the resale
 of the flat. Approval from HDB for the resale has to be separately obtained.
 8 Once HDB has received the Request for Value, HDB will not accept another Request for Value
 for the same flat from the same buyer or a different buyer until the Option to Purchase (referred to
@@ -2407,7 +2407,7 @@ mean the acceptance of the resale application by HDB.
 (a) The seller and the buyer satisfying the approved ethnic ratios and limits set for the
 Neighbourhood and Apartment Block under the Ethnic Integration Policy and the Singapore
 Permanent Resident Quota policy as at the date of submission of the resale application.
-(b) HDBís receipt and verification of the information (including consistency with any information
+(b) HDB‚Äôs receipt and verification of the information (including consistency with any information
 provided by the seller at the Intent to Sell and the buyer at the Intent to Buy) and documents
 submitted by the seller and buyer that are required by HDB to process the resale application.
 5.4 HDB in its sole and absolute discretion reserves the right not to accept the resale application if:
@@ -2418,10 +2418,10 @@ the Option to Purchase; or
 (b) the required information and documents are not submitted within the timeframe as requested
 by HDB; or for any reason HDB may decide at its sole discretion.
 5 The acceptance of the resale application does not constitute an approval by HDB for the resale.
-HDBís written approval for the resale must still be obtained before the resale completion can take
+HDB‚Äôs written approval for the resale must still be obtained before the resale completion can take
 place.
 6 APPOINTING HDB AS A SOLICITOR
-Where HDB is appointed by the seller and/or buyer to act in the resale, HDBís conveyancing fees
+Where HDB is appointed by the seller and/or buyer to act in the resale, HDB‚Äôs conveyancing fees
 shall be calculated in accordance with the Housing and Development (Conveyancing Fees) Rules.
 HDB in its sole and absolute discretion reserves the right to discharge from acting for any party in
 the resale in the event of any dispute arising between the parties or for any other reason as HDB
@@ -2468,8 +2468,8 @@ Assignee to the purchase before the completion of the purchase.
 8 COSTS, EXPENSES AND DEPOSIT
 8 .1 The seller and buyer shall each bear their own legal costs, and other costs and expenses. In
 addition, the buyer shall pay the Government Survey Fee (subject to the prevailing Goods and
-Services Tax), if any. The payment shall be made upon HDBís request after the acceptance of
-the resale application, within the timeframe specified by HDB, using Cashierís Order or in any
+Services Tax), if any. The payment shall be made upon HDB‚Äôs request after the acceptance of
+the resale application, within the timeframe specified by HDB, using Cashier‚Äôs Order or in any
 mode of payment that HDB may decide.
 
 2 In the event the resale transaction does not go through for any reason whatsoever, HDB cannot
@@ -2505,18 +2505,18 @@ Building Surveyor) at his own expense to help him in the checking.
 
 9 .5 If any renovation works are carried out prior to the completion of the resale, the seller and buyer
 shall be jointly and severally liable for any damage to the flat or the building where the flat is
-located. Both the seller and buyer shall rectify the damage to HDBís satisfaction.
+located. Both the seller and buyer shall rectify the damage to HDB‚Äôs satisfaction.
 
 9 .6 The seller and buyer shall jointly and severally keep HDB fully indemnified against all actions,
 proceedings, claims, demands, liabilities, losses, charges, damages, costs and expenses which
 may be brought against, become payable by and/or incurred by HDB arising from or in relation to
 the damage caused to the flat or the building where the flat is located.
 
-9 .7 Design, Build and Sell Scheme (ìDBSSî) flats are HDB flats which were designed, built and sold
+9 .7 Design, Build and Sell Scheme (‚ÄúDBSS‚Äù) flats are HDB flats which were designed, built and sold
 by private developers under Part IVB of the Housing & Development Act. Any reference to a flat
 in these Terms and Conditions shall include a DBSS flat. Each DBSS development is
 characterised by its own distinctive external features. To maintain the aesthetic appearance of
-each development and to be in line with URAís Gross Floor Area (GFA) Incentive Scheme, specific
+each development and to be in line with URA‚Äôs Gross Floor Area (GFA) Incentive Scheme, specific
 renovation restrictions apply to DBSS flats. These may include renovation restrictions that apply
 to the balcony, air-conditioner ledge, planter boxes and service yard.
 
@@ -2546,8 +2546,8 @@ for the purchase of the recess area together with the resale application.
 
 11 .2 The buyer has to contact the Branch Service Line at 1800-2255432, at least 2 weeks before
 submitting the resale application for information on the availability of the recess area for purchase.
-As the resale completion date may be affected/delayed, the sellerís consent will need to be
-obtained before HDB can process the 2 applications concurrently. In the absence of the sellerís
+As the resale completion date may be affected/delayed, the seller‚Äôs consent will need to be
+obtained before HDB can process the 2 applications concurrently. In the absence of the seller‚Äôs
 consent, HDB will process the resale application without the purchase of the recess area.
 
 11 .3 Notwithstanding the completion of purchase of the recess area concurrently with the resale
@@ -2555,7 +2555,7 @@ application or purchase of an HDB resale flat with sold recess area, the buyer s
 whole or part of the recess area at the original price or at any other price to be fixed by HDB in its
 absolute discretion if it is required for any upgrading works. This includes any Lift Upgrading
 Programme or any other purpose as determined by HDB in its absolute discretion. The buyer
-must also agree to HDBís contractors entering the flat whenever needed to execute all the
+must also agree to HDB‚Äôs contractors entering the flat whenever needed to execute all the
 necessary works, including constructing lift shafts and building construction buffers around the lift
 shafts which HDB would only dismantle when HDB deems they are no longer necessary.
 
@@ -2582,11 +2582,11 @@ not, and will not accede to any request to, mediate in the dispute.
 13 OUTSTANDING DEBTS DUE TO HDB
 13 .1 If any person listed in the resale application form has any outstanding debts due and owing to
 HDB, such person shall be required to settle such debts and pay an administrative charge (to be
-determined at HDBís discretion) before the resale application can be considered.
+determined at HDB‚Äôs discretion) before the resale application can be considered.
 
 13 .2 HDB has the right to deduct from the sale proceeds all ex-tenancy and other arrears/debts and
 taxes (including income or property taxes) and administrative charges owing to HDB or other
-government authorities by the seller in respect of any of HDBís properties even if such
+government authorities by the seller in respect of any of HDB‚Äôs properties even if such
 arrears/debts/charges do not relate to the flat.
 
 14 ENDORSE RESALE DOCUMENTS AND PAYMENTS
@@ -2597,7 +2597,7 @@ the necessary payments for the resale according to the timeframe as requested by
 14 .2 The seller's spouse who is not an owner of the flat and the buyer's spouse who is listed as an
 occupier in the resale application must also endorse in the HDB Resale Portal (or in any manner
 that HDB will decide) the spouse consent/acknowledgement form, to acknowledge the sale or
-purchase of the flat. If the sellerís or buyerís spouse is not in Singapore or is residing overseas,
+purchase of the flat. If the seller‚Äôs or buyer‚Äôs spouse is not in Singapore or is residing overseas,
 he or she will be required to sign the spouse consent/acknowledgement form in the presence of a
 Notary Public.
 
@@ -2622,19 +2622,19 @@ HDB.
 includes the Ethnic Integration Policy and the Singapore Permanent Resident Quota policy as at
 the date of submission of the resale application.
 
-3 HDBís approval for resale is granted subject to:
+3 HDB‚Äôs approval for resale is granted subject to:
 
-(a) (i) HDBís satisfaction that all parties have full power and capacity to enter into and
+(a) (i) HDB‚Äôs satisfaction that all parties have full power and capacity to enter into and
 complete the resale transaction and to do all such acts and sign all documents,
 instruments and letters relating to the resale transaction; or
-(ii) where any party does not have such full power and capacity, HDBís receipt of all
+(ii) where any party does not have such full power and capacity, HDB‚Äôs receipt of all
 documents (as may be required by HDB) appointing an attorney, donee, deputy,
 representative or personal representative to act on behalf of such party;
 (b) the seller rectifying all unauthorised alterations/additions in the flat;
 (c) the seller paying all outstanding taxes/charges, e.g. Property Tax, Service/Conservancy
 charges up to the actual date of completion; and
 (d) the seller paying any ex-tenancy, arrears/debts and administrative charges owing by him to
-HDB with respect to the flat or any of HDBís properties.
+HDB with respect to the flat or any of HDB‚Äôs properties.
 15.4 HDB in its sole and absolute discretion reserves the right to cancel the resale application (whether
 approval has been granted or otherwise) without furnishing any reason, written or otherwise, to
 any party and all parties shall not have any objection to such cancellation. Such cancellation shall
@@ -2647,7 +2647,7 @@ have been paid up to the actual date of completion.
 
 16 .2 Where the buyer has obtained an HDB housing loan and a deposit (which shall not exceed $5,000)
 has been paid by the buyer directly to the seller, he shall pay the balance purchase price (if any)
-together with stamp/registration fees (if any) to HDB by the completion date, using Cashierís Order
+together with stamp/registration fees (if any) to HDB by the completion date, using Cashier‚Äôs Order
 or in any mode of payment that HDB may decide, failing which HDB reserves the right not to allow
 the completion of the resale.
 
@@ -2683,7 +2683,7 @@ of the resale application by HDB upon notice in writing by either party to HDB.
 
 17 .2 Upon such withdrawal, the administrative and valuation fees paid will not be refunded.
 
-After HDBís Acceptance of Resale Application
+After HDB‚Äôs Acceptance of Resale Application
 
 17 .3 HDB will only cancel the resale application upon receiving written confirmation from both the seller
 and buyer to that effect.
@@ -2712,7 +2712,7 @@ for a term not exceeding 6 months, or to both.
 taking over ownership of a flat^ by way of transfer, being included as an essential occupier of a
 flat^ or taking up an HDB housing loan for a period of 5 years from the date of cancellation of the
 resale application or the date of approval to compulsorily acquire the flat. Any existing application
-registered in the HDBís rental waiting list will also be cancelled.
+registered in the HDB‚Äôs rental waiting list will also be cancelled.
 
 (^includes a unit to be bought under the Design, Build and Sell Scheme or the Executive
 Condominium Housing Scheme)
@@ -2720,7 +2720,7 @@ Condominium Housing Scheme)
 19 BREACH OF CONDITIONS
 
 HDB has the right to withhold and/or revoke its approval for the resale if the seller or buyer infringes
-any of these Terms and Conditions, HDBís prevailing policies, the Option to Purchase, Agreement
+any of these Terms and Conditions, HDB‚Äôs prevailing policies, the Option to Purchase, Agreement
 for Lease, Lease and/or Mortgage or any provisions under the Housing & Development Act and
 rules and regulations made thereunder.
 
@@ -2764,14 +2764,14 @@ occupier who is a Singapore Permanent Resident is essential to form the family n
 essential occupier must have obtained his Singapore Permanent Resident status for at least 3
 years at the time of submitting the resale application.
 
-21.7 Where the buyer is applying with his fiancÈe to form a family nucleus, they must register their
+21.7 Where the buyer is applying with his fianc√©e to form a family nucleus, they must register their
 marriage with the Registry of Civil or Muslim Marriages and submit their marriage certificate to
 HDB within 3 months from the date of taking possession of the resale flat.
 
 21.8 The buyer must inform HDB of any changes to his household composition in the resale application,
 including changes in marital status, before the resale completion.
 
-21.9 For the Ethnic Integration Policy, the ethnic classification of the buyerís household at the point of
+21.9 For the Ethnic Integration Policy, the ethnic classification of the buyer‚Äôs household at the point of
 flat purchase will remain unchanged when he sells the flat.
 
 22 DEBARMENT
@@ -2786,7 +2786,7 @@ whether they wish to hold the flat as Joint-Tenants or Tenants-in-Common.
 24 HOUSING LOAN FROM HDB
 
 24 .1 HDB will only grant a housing loan to the buyer who can meet the eligibility criteria. The buyer
-must comply with HDBís prevailing policies, rules, regulations, terms and conditions relating to the
+must comply with HDB‚Äôs prevailing policies, rules, regulations, terms and conditions relating to the
 application and approval of the HDB housing loan.
 
 24 .2 The buyer who is eligible for and is intending to obtain a housing loan from HDB must have a valid
@@ -2797,15 +2797,15 @@ submits the resale application.
 24.3 The buyer who takes a housing loan from HDB must first use all his CPF savings in his Ordinary
 Account for the purchase of the flat up to the prevailing limits depending on the remaining lease
 of the flat before the loan is disbursed. HDB may allow each buyer to retain up to $20,000 in his
-CPF Ordinary Account or such other amount as HDB may, at its sole discretion, decide (ìretention
-amountî). Once the buyer has endorsed the financial plan for the flat purchase, no change of the
+CPF Ordinary Account or such other amount as HDB may, at its sole discretion, decide (‚Äúretention
+amount‚Äù). Once the buyer has endorsed the financial plan for the flat purchase, no change of the
 plan will be allowed.
 
 4 Use of proceeds from sale/disposal of last owned/current HDB flats for purchase of next
 HDB flat^
 In clause 24. 4 , the disposal of an HDB flat includes disposal by way of transfer, surrender or
 compulsory acquisition.
-HDB will reduce the amount of the second concessionary loan by the buyerís CPF proceeds
+HDB will reduce the amount of the second concessionary loan by the buyer‚Äôs CPF proceeds
 (subject to the retention amount as stated in clause 24.3) and part of the cash proceeds from the
 sale/disposal of the existing or immediate past HDB flats.
 
@@ -2813,13 +2813,13 @@ sale/disposal of the existing or immediate past HDB flats.
 Interest Rate and are buying the next HDB flat after selling/disposing the existing one -
 The second HDB concessionary interest rate loan is granted subject to the following conditions:
 (i) up to 50% of the cash proceeds from the sale/disposal of the buyer's and/or his
-spouse's/fiancÈ's/fiancÈe's last owned flat will be taken into account in determining the
+spouse's/fianc√©'s/fianc√©e's last owned flat will be taken into account in determining the
 loan to be granted; and
 (ii) full utilisation of CPF (subject to the retention amount as stated in clause 24.3) will be
 required at the point of loan disbursement.
 (b) For buyers and essential occupiers who have taken one HDB Loan at Concessionary
 Interest Rate and are buying the next flat before selling/disposing the existing one -
-If the buyer and/or his spouse's/fiancÈ's/fiancÈe's still own the existing flat(s), a commercial
+If the buyer and/or his spouse's/fianc√©'s/fianc√©e's still own the existing flat(s), a commercial
 interest rate* loan will be granted subject to the following conditions:
 (i) HDB will require all the owners to sell/dispose of the existing flat(s) as well as to sign an
 agreement to use the CPF monies refunded and part of the cash proceeds from the
@@ -2844,12 +2844,12 @@ Depending on the manner of holding of the current/last owned flat, HDB reserves 
 determine the cash proceeds required to be used for the next HDB flat purchase at its sole
 discretion.
 24 .5 Where the buyer obtains a housing loan from HDB, he must insure the flat against the risk of fire
-with HDBís appointed insurer for a sum not less than the amount determined by HDB. HDB has
+with HDB‚Äôs appointed insurer for a sum not less than the amount determined by HDB. HDB has
 the right to recall the housing loan if the buyer does not have a valid fire insurance on the flat for
 the duration of the housing loan.
 
 25 USE OF CPF SAVINGS
-The use of CPF savings for the purchase of an HDB flat is subject to the CPF Boardís prevailing
+The use of CPF savings for the purchase of an HDB flat is subject to the CPF Board‚Äôs prevailing
 policies, rules, regulations, usage limits, terms and conditions, which include but are not limited to
 the following:
 
@@ -2892,12 +2892,12 @@ letter from HDB or a Letter of Offer from a bank/financial institution, but will
 he is financing the flat purchase fully with his CPF savings and/or cash when he submits the resale
 application to HDB.
 
-28 ADDITIONAL BUYERíS STAMP DUTY
+28 ADDITIONAL BUYER‚ÄôS STAMP DUTY
 
 The buyer has to pay the prevailing stamp duties relating to the purchase of the flat (including but
-not limited to Additional Buyerís Stamp Duty) as may be imposed by the Government from time to
+not limited to Additional Buyer‚Äôs Stamp Duty) as may be imposed by the Government from time to
 time. Where the buyer needs to pay part of such stamp duties in cash, the buyer shall pay to HDB,
-using Cashierís Order or in any mode of payment that HDB may decide, within the timeframe as
+using Cashier‚Äôs Order or in any mode of payment that HDB may decide, within the timeframe as
 requested by HDB after the acceptance of the resale application, failing which HDB reserves the
 right not to approve the resale.
 
@@ -2981,13 +2981,13 @@ purchase received by HDB on or after 30 August 2010).
 30 .3 If the seller has rented out his whole flat, the rental period of the flat will NOT be included in
 computing the Minimum Occupation Period of the flat.
 
-30 .4 If the flat is the sellerís second subsidised flat, he may sell the flat to a buyer of his choice upon
+30 .4 If the flat is the seller‚Äôs second subsidised flat, he may sell the flat to a buyer of his choice upon
 satisfying the Minimum Occupation Period of his flat. However, he shall be debarred permanently
 from purchasing any subsidised HDB flat.
 
 31 RESALE LEVY
-31 .1 If the flat is the sellerís first subsidised flat or a flat bought under the CPF Housing Grant Scheme,
-he is eligible to sell his flat to a buyer of his choice subject to HDBís approval. He will have to pay
+31 .1 If the flat is the seller‚Äôs first subsidised flat or a flat bought under the CPF Housing Grant Scheme,
+he is eligible to sell his flat to a buyer of his choice subject to HDB‚Äôs approval. He will have to pay
 a resale levy if he buys or takes over the ownership of another subsidised flat or an Executive
 Condominium sold by a Developer, or an Executive Condominium with outstanding 5-year
 minimum occupation period. He need not pay the resale levy if the Executive Condominium
@@ -3000,7 +3000,7 @@ determined by HDB from time to time.
 
 32.1 Where the seller has used his CPF savings to purchase his flat, such CPF savings together with
 interest calculated to the actual date of completion will have to be refunded to his CPF account.
-The refund of CPF savings is subject to the CPF Boardís prevailing policies, rules, regulations,
+The refund of CPF savings is subject to the CPF Board‚Äôs prevailing policies, rules, regulations,
 terms and conditions.
 
 32.2 If the net proceeds of sale are not enough to effect full CPF refund, the seller shall, as may be
@@ -3008,20 +3008,20 @@ directed by HDB, pay the cash deposit received from the buyer (or any part there
 part of the refund to his CPF account. HDB shall not be responsible or liable to any party for any
 action, proceeding, claim, demand, liability, loss, charge, damage, cost and/or expense which may
 be brought against, become payable by and/or incurred by any party arising from or in relation to
-the partiesí failure to complete the resale transaction due to the sellerís failure to comply with
-HDBís directions to pay the deposit (or any part thereof) to HDB.
+the parties‚Äô failure to complete the resale transaction due to the seller‚Äôs failure to comply with
+HDB‚Äôs directions to pay the deposit (or any part thereof) to HDB.
 
-33 SELLERíS STAMP DUTY
+33 SELLER‚ÄôS STAMP DUTY
 The seller has to pay the prevailing stamp duties relating to the sale of the flat (including but not
-limited to Sellerís Stamp Duty) as may be imposed by the Government from time to time. Where
+limited to Seller‚Äôs Stamp Duty) as may be imposed by the Government from time to time. Where
 the seller needs to pay part of such stamp duties in cash, the seller shall pay to HDB, using
-Cashierís Order or in any mode of payment that HDB may decide, within the timeframe as
+Cashier‚Äôs Order or in any mode of payment that HDB may decide, within the timeframe as
 requested by HDB after the acceptance of the resale application, failing which HDB reserves the
 right not to approve the resale.
 
 NOTE:
 1 The Terms and Conditions of Sale and Purchase of an HDB Resale Flat contained in this
-form are valid at the time of update and are subject to HDBís prevailing policies, rules and
+form are valid at the time of update and are subject to HDB‚Äôs prevailing policies, rules and
 regulations. HDB has the right to vary the terms and conditions of sale and purchase at
 any time.
 
@@ -3029,10 +3029,10 @@ any time.
 
 3 Words referring to the male gender include the female gender.
 
-4 HDB has the right to withhold, revoke, reject or cancel any resale application and/or HDBís
-approval, or delete any personís name from the resale application without assigning any
+4 HDB has the right to withhold, revoke, reject or cancel any resale application and/or HDB‚Äôs
+approval, or delete any person‚Äôs name from the resale application without assigning any
 reason whatsoever. If HDB deems that the seller or buyer is not eligible to sell or buy the
-flat or becomes ineligible to retain his application to sell or buy the flat under HDBís
+flat or becomes ineligible to retain his application to sell or buy the flat under HDB‚Äôs
 prevailing policies, the resale application shall be rejected or cancelled.
 
 5 All decisions by HDB shall be final and conclusive.
@@ -3046,16 +3046,16 @@ HDB also reserves the right to debar any person who makes a false statement from
 taking over ownership of a flat^ by way of transfer, being included as an essential occupier of a flat^
 or taking up an HDB housing loan for a period of 5 years from the date of cancellation of the resale
 application or the date of approval to compulsorily acquire the flat. Any existing application
-registered in the HDBís rental waiting list will also be cancelled.
+registered in the HDB‚Äôs rental waiting list will also be cancelled.
 (^includes a unit to be bought under the Design, Build and Sell Scheme or the Executive
 Condominium Housing Scheme)
-HDBíS PRIVACY POLICY
+HDB‚ÄôS PRIVACY POLICY
 HDB collects personal data from you to administer HDB's public housing programmes and services.
 We may share necessary data with other Government agencies, unless such sharing is prohibited
 by legislation. This is to enable us to serve you in the most convenient, efficient and effective way.
 We will NOT share your personal data with non-Government entities, except where such entities
 have been authorised to carry out specific Government services.
-If you would like to find out more about HDBís Data Protection and Privacy Policy, you can visit our
+If you would like to find out more about HDB‚Äôs Data Protection and Privacy Policy, you can visit our
 website http://www.hdb.gov.sg for more details.
 Updated 28 September 2021
 

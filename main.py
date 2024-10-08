@@ -21,10 +21,10 @@ st.set_page_config(
 )
 # endregion <--------- Streamlit App Configuration --------->
 
-st.title("Streamlit App")
+st.title("Buying HDB resale flat")
 
 form = st.form(key="form")
-form.subheader("Prompt")
+form.subheader("Ask question about procedure to buy HDB resale flat")
 
 user_prompt = form.text_area("Enter your prompt here", height=200)
 
