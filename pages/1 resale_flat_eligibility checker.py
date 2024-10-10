@@ -83,6 +83,65 @@ def update_occupier_inputs():
         st.session_state.occ3flg = False
         st.session_state.occ4flg = False
 
+def input_validation():
+    count_spouse = 0 #max 1
+    count_parent = 0 #max 2
+    count_grandparent = 0 #max 2
+
+    if st.session_state.relationship_applicant_2 == "Spouse":
+        count_spouse += 1
+    elif st.session_state.relationship_applicant_2 == "Parent":
+        count_parent += 1
+    elif st.session_state.relationship_applicant_2 == "Grandparent":
+        count_grandparent += 1
+    
+    if st.session_state.relationship_applicant_3 == "Spouse":
+        count_spouse += 1
+    elif st.session_state.relationship_applicant_3 == "Parent":
+        count_parent += 1
+    elif st.session_state.relationship_applicant_3 == "Grandparent":
+        count_grandparent += 1
+
+    if st.session_state.relationship_applicant_4 == "Spouse":
+        count_spouse += 1
+    elif st.session_state.relationship_applicant_4 == "Parent":
+        count_parent += 1
+    elif st.session_state.relationship_applicant_4 == "Grandparent":
+        count_grandparent += 1
+
+    if st.session_state.relationship_occupier_1 == "Spouse":
+        count_spouse += 1
+    elif st.session_state.relationship_occupier_1 == "Parent":
+        count_parent += 1
+    elif st.session_state.relationship_occupier_1 == "Grandparent":
+        count_grandparent += 1
+
+    if st.session_state.relationship_occupier_2 == "Spouse":
+        count_spouse += 1
+    elif st.session_state.relationship_occupier_2 == "Parent":
+        count_parent += 1
+    elif st.session_state.relationship_occupier_2 == "Grandparent":
+        count_grandparent += 1
+
+    if st.session_state.relationship_occupier_3 == "Spouse":
+        count_spouse += 1
+    elif st.session_state.relationship_occupier_3 == "Parent":
+        count_parent += 1
+    elif st.session_state.relationship_occupier_3 == "Grandparent":
+        count_grandparent += 1
+
+    if st.session_state.relationship_occupier_4 == "Spouse":
+        count_spouse += 1
+    elif st.session_state.relationship_occupier_4 == "Parent":
+        count_parent += 1
+    elif st.session_state.relationship_occupier_4 == "Grandparent":
+        count_grandparent += 1
+
+    if count_spouse <= 1 and count_parent <=2 and count_grandparent <=2:
+        return True
+    else:
+        return False
+
 st.subheader("General Information")
 number_of_applicant = st.slider("How many applicants will be listed in the application?", 1, 4, 2, key="number_of_applicant_slider", on_change=update_applicant_inputs)
 number_of_occupier = st.slider("How many occupiers will be listed in the application?", 0, 4, 0, key="number_of_occupier_slider", on_change=update_occupier_inputs)
@@ -107,7 +166,7 @@ citizenship_applicant_2 = st.selectbox(
 income_applicant_2 = st.number_input("Average Monthly Income", key="income_applicant_2", disabled=st.session_state.app2flg)
 relationship_applicant_2 = st.selectbox(
     "Relationship with Application 1",
-    ("Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling", "Unrelated"),
+    ("Unrelated", "Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling"),
     key="relationship_applicant_2",
     disabled=st.session_state.app2flg
 )
@@ -123,7 +182,7 @@ citizenship_applicant_3 = st.selectbox(
 income_applicant_3 = st.number_input("Average Monthly Income", key="income_applicant_3", disabled = st.session_state.app3flg)
 relationship_applicant_3 = st.selectbox(
     "Relationship with Application 1",
-    ("Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling", "Unrelated"),
+    ("Unrelated", "Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling"),
     key="relationship_applicant_3",
     disabled = st.session_state.app3flg
 )
@@ -139,7 +198,7 @@ citizenship_applicant_4 = st.selectbox(
 income_applicant_4 = st.number_input("Average Monthly Income", key="income_applicant_4", disabled = st.session_state.app4flg)
 relationship_applicant_4 = st.selectbox(
     "Relationship with Application 1",
-    ("Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling", "Unrelated"),
+    ("Unrelated", "Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling"),
     key="relationship_applicant_4",
     disabled = st.session_state.app4flg
 )
@@ -153,7 +212,7 @@ citizenship_occupier_1 = st.selectbox(
 )
 relationship_occupier_1 = st.selectbox(
     "Relationship with Application 1",
-    ("Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling", "Unrelated"),
+    ("Unrelated", "Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling"),
     key="relationship_occupier_1",
     disabled = st.session_state.occ1flg
 )
@@ -167,7 +226,7 @@ citizenship_occupier_2 = st.selectbox(
 )
 relationship_occupier_2 = st.selectbox(
     "Relationship with Application 2",
-    ("Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling", "Unrelated"),
+    ("Unrelated", "Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling"),
     key="relationship_occupier_2",
     disabled = st.session_state.occ2flg
 )
@@ -181,7 +240,7 @@ citizenship_occupier_3 = st.selectbox(
 )
 relationship_occupier_3 = st.selectbox(
     "Relationship with Application 3",
-    ("Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling", "Unrelated"),
+    ("Unrelated", "Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling"),
     key="relationship_occupier_3",
     disabled = st.session_state.occ3flg
 )
@@ -195,7 +254,7 @@ citizenship_occupier_4 = st.selectbox(
 )
 relationship_occupier_4 = st.selectbox(
     "Relationship with Application 4",
-    ("Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling", "Unrelated"),
+    ("Unrelated", "Spouse", "Parent", "Child", "Grandparent", "Grandchild", "Sibling"),
     key="relationship_occupier_4",
     disabled = st.session_state.occ4flg
 )
@@ -239,7 +298,11 @@ if form.form_submit_button("Submit"):
         """
     st.write("Question:")
     st.write(question)
-    response = process_user_message(question) #<--- This calls the `process_user_message` function that we have created 🆕
+    if input_validation() == True:
+        response = process_user_message(question) #<--- This calls the `process_user_message` function that we have created
+    else:
+        response = "Please input maximum 1 spouse, 2 parent and 2 grandparent"
+
     st.write(response)
 #```
 
