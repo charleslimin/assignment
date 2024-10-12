@@ -264,9 +264,6 @@ user_prompt = ""
 form = st.form(key="form")
 
 if form.form_submit_button("Submit"):
-    #st.toast(f"User Input Submitted - {user_prompt}")
-    #response = process_user_message(user_prompt) #<--- This calls the `process_user_message` function that we have created 🆕
-    #st.write(response)
     question = f"""Applicant 1: {str(age_applicant_1)}  years old {citizenship_applicant_1} with average monthly income of {str(income_applicant_1)} """
     if number_of_applicant > 1:
         question += f"""

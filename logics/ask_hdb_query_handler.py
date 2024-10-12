@@ -56,7 +56,7 @@ task_responder = Task(
 crew = Crew(
     agents=[agent_profiler, agent_responder ],
     tasks=[task_profiler, task_responder],
-    verbose=True
+    verbose=False
 )
 
 def process_user_message(user_input):
@@ -65,7 +65,7 @@ def process_user_message(user_input):
 
     result = crew.kickoff(inputs=hdb_resale_buyer_inputs)
 
-    return (result)
+    return (result.raw)
 #```
 
 # I am planning to buy HDB resale flat with my spouse. I am 32 years old Singapore Citizen with monthly average income of 2,000. My spouse is 30 years old Singapore Permanent Resident with monthly average income of 4,000.
