@@ -3,4 +3,4 @@ pandas
 python-dotenv
 tiktoken
 crewai
-crewai_tools
+crewai-tools
