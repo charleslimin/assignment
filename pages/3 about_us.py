@@ -73,7 +73,7 @@ with st.expander("Features"):
         Powered by CrewAI
         Based on information extracted from official HDB Website
 
-        2. Resale Flat Eligibility Check
+        2. Resale Flat Eligibility Checker
 
         A form based Eligibility Checker with no free-text entry
         Protected by input validation

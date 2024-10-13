@@ -13,7 +13,7 @@ st.set_page_config(
 
 st.title("Methodology Flow Chart")
 
-with st.expander("Buying HDB resale flat"):
+with st.expander("Ask question about procedure to buy HDB resale flat"):
     st.image("./data/use_case_1_flowchart.JPG", caption="Buying HDB Resale Flat")
 
 with st.expander("Resale Flat Eligibility Checker"):
