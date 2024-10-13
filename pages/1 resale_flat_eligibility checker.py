@@ -8,11 +8,11 @@ from logics.resale_eligibility_check_handler import process_user_message
 #Importing the pandas Library 
 import pandas as pd
 
-#from helper_functions.utility import check_password  
+from helper_functions.utility import check_password  
 
 # Check if the password is correct.  
-#if not check_password():  
-#    st.stop()
+if not check_password():  
+    st.stop()
 
 # region <--------- Streamlit App Configuration --------->
 st.set_page_config(
