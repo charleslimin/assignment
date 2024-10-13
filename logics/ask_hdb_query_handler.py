@@ -11,9 +11,8 @@ from helper_functions import llm
 from crewai import Agent, Task, Crew
 
 # import other necessary libraries you need
-from crewai_tools import SeleniumScrapingTool, FileReadTool
+from crewai_tools import FileReadTool
 
-seleniumscrap_tool = SeleniumScrapingTool()
 file_read_tool = FileReadTool( './data/hdb_resale_info.txt' )
 
 agent_profiler = Agent(
