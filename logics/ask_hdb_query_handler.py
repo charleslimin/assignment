@@ -5,7 +5,6 @@
 import os
 from dotenv import load_dotenv
 import json
-import lolviz
 from helper_functions import llm
 
 # Import the key CrewAI classes
