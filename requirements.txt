@@ -2,5 +2,5 @@ openai
 pandas
 python-dotenv
 tiktoken
-crewai
-crewai-tools
+crewai==0.55.2
+crewai-tools==0.12.0
