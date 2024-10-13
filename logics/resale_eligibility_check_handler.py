@@ -22,8 +22,8 @@ def generate_question_response(user_message):
     </HDB Resale Flat Eligibility>
 
     Please note the following:
+    - 21 to 130 years old are above 21 years old which met the minimum age requirement of 21 years old to apply for a HDB flat
     - 0 to 20 years old are below 21 years old
-    - 21 to 130 years old are above 21 years old
     
     Follow these steps to generate your answer.
 
